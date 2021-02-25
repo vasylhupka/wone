@@ -14,7 +14,7 @@ thumb_image: images/post-1.jpg
 thumb_image_alt: Post 1 placeholder image
 image: images/post-1.jpg
 image_alt: Post 1 placeholder image
-image_position: right
+image_position: left
 seo:
   title: How To Plan Your Day With YourGoal
   description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit'
