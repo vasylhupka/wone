@@ -50,7 +50,7 @@ sections:
             url: /thank-you
             style: primary
             has_icon: true
-            icon: facebook
+            icon: arrow-right
             icon_position: right
         image: images/feature-1.png
         image_alt: Feature 1 placeholder image
