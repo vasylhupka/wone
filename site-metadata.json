@@ -38,7 +38,6 @@
         "has_anncmnt": false
     },
     "footer": {
-        "logo": "images/logo.svg",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
         "primary_nav_links": [
@@ -140,7 +139,7 @@
             }
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=startup&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
-        "logo_alt": "w"
+        "logo_alt": "wOne"
     },
     "title": "Stackbit Startup Theme",
     "domain": "https://wone-75f84.netlify.app"
