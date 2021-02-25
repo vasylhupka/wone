@@ -10,6 +10,7 @@ sections:
       - label: Більше
         url: 'https://elementor.com/features/editor'
         style: primary
+        new_window: true
     image: images/elementor-pro-new.JPG
     image_alt: Hero section placeholder image
     media_position: bottom
