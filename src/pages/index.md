@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Плагин Elementor Pro
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: >-
+      Elementor допоможе вам зробити контент привабливим та добре
+      структурованим.
     actions:
       - label: Try for free
         url: /pricing
