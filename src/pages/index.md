@@ -8,7 +8,7 @@ sections:
       структурованим.
     actions:
       - label: Більше
-        url: /pricing
+        url: 'https://elementor.com/features/editor/'
         style: primary
     image: images/elementor-pro-new.JPG
     image_alt: Hero section placeholder image
