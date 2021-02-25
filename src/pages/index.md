@@ -7,7 +7,7 @@ sections:
       Elementor допоможе вам зробити контент привабливим та добре
       структурованим.
     actions:
-      - label: 'Більше '
+      - label: Більше
         url: /pricing
         style: primary
     image: images/elementor-pro-new.JPG
