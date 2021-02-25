@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Achieve your Goals!
+    title: Плагин Elementor Pro
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Try for free
