@@ -32,7 +32,7 @@ sections:
       - image: images/woo.png
         image_alt: Logo 2
         image_align: center
-      - image: images/logo-3.svg
+      - image: images/webbuild.png
         image_alt: Logo 3
         image_align: center
     grid_cols: three
