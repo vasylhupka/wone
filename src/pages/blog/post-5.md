@@ -15,7 +15,7 @@ excerpt: >-
   affecit, quanto.
 thumb_image: images/expanded-menu-1.png
 thumb_image_alt: Post 5 placeholder image
-image: images/post-5.jpg
+image: images/expanded-menu-1.png
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
