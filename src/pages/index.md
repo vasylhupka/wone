@@ -168,7 +168,8 @@ sections:
     background_color: none
   - type: cta_section
     title: "Ви\_готові розпочати?"
-    content: Start achieving your goals today!
+    content: |
+      Встановіть wordpress + Elementor Page Builder + тему Deep
     actions:
       - label: Try for free
         url: /thank-you
