@@ -39,7 +39,8 @@
             }
         ],
         "has_anncmnt": false,
-        "logo": "images/robust-turtle.png"
+        "logo": "images/robust-turtle.png",
+        "logo_alt": "bvvvvvv"
     },
     "footer": {
         "has_primary_nav": true,
