@@ -71,9 +71,7 @@ sections:
         media_position: left
         media_width: sixty
       - title: Включені плагіни Premium
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: "Двадцять дев'ять найпопулярніших та найпотужніших плагінів преміум-класу на суму $ 701 включені до теми Deep.\_Все готово;\_почати!\_Ви знайдете список доступних плагінів теми наступним чином:\n"
         actions:
           - label: Learn More
             url: /thank-you
