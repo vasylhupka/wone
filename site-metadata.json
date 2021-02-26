@@ -31,7 +31,7 @@
             },
             {
                 "label": "+ Додати пораду",
-                "url": "/фаа",
+                "url": "/af",
                 "style": "primary",
                 "has_icon": false,
                 "icon_position": "right",
