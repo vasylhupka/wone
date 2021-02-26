@@ -54,7 +54,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/intro-evisual-p1.png
-        image_alt: Feature 1 placeholder image
+        image_alt: 'Deep Theme Header Builder '
         media_position: right
         media_width: sixty
       - title: Найдосконаліший інтерфейсний конструктор перетягування сторінок
