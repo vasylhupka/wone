@@ -129,7 +129,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Your Progress
+      - title: Ефективність
         title_align: left
         content: >
           Отже, якщо ви шукаєте дуже гнучку тему з безліччю корисних функцій,
