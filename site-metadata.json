@@ -39,7 +39,7 @@
             }
         ],
         "has_anncmnt": false,
-        "logo": "images/lo-p.jpg"
+        "logo": "images/logo.png"
     },
     "footer": {
         "has_primary_nav": true,
