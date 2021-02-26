@@ -15,7 +15,7 @@ excerpt: >-
   affecit, quanto.
 thumb_image: images/deep-hero-ovcvwyb95xu9xzeauproah3x7xk6pfrpz81uhsvma8.png
 thumb_image_alt: Post 5 placeholder image
-image: images/expanded-menu-1.png
+image: images/deep-hero-ovcvwyb95xu9xzeauproah3x7xk6pfrpz81uhsvma8.png
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
