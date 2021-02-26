@@ -34,7 +34,8 @@
                 "url": "/thank-you",
                 "style": "primary",
                 "has_icon": true,
-                "icon_position": "right"
+                "icon_position": "right",
+                "icon": "arrow-right"
             }
         ],
         "has_anncmnt": false,
