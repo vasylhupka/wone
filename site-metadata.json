@@ -30,7 +30,7 @@
                 "style": "secondary"
             },
             {
-                "label": "Get Started",
+                "label": "Додати порад",
                 "url": "/thank-you",
                 "style": "primary"
             }
