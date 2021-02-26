@@ -33,7 +33,8 @@
                 "label": "Додати пораду",
                 "url": "/thank-you",
                 "style": "primary",
-                "has_icon": true
+                "has_icon": true,
+                "icon_position": "right"
             }
         ],
         "has_anncmnt": false,
