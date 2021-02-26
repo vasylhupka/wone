@@ -204,7 +204,7 @@ seo:
       value: wOne - професійні поради
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: Найрізноманітніші поради в різних сферах професійної діяльності
       keyName: property
     - name: 'og:image'
       value: /images/logo.png
