@@ -131,9 +131,11 @@ sections:
         image_has_padding: true
       - title: Ефективність
         title_align: left
-        content: >
+        content: >+
           Отже, якщо ви шукаєте дуже гнучку тему з безліччю корисних функцій,
-          Deep повинен бути у вашому списку.
+          Deep є однією з найбільш інноваційних тем WordPress, доступних на
+          ринку. 
+
         content_align: left
         image: images/icon-4.svg
         image_alt: Section item 4 icon
