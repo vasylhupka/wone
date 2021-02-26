@@ -44,7 +44,7 @@ sections:
   - type: features_section
     title: Best WordPress Theme - Deep
     features:
-      - title: All the Activity Data You Need to Improve Yourself
+      - title: Перетворіть свою уяву в реальність
         content: "Deep Theme Header Builder - це найкращий, найпотужніший, а також найбільш настроюваний інструмент у світі для створення заголовків, і іншого такого інструменту раніше не було.\_За допомогою цього інструменту, у візуальному режимі (фоновий редактор або редактор інтерфейсу в реальному часі), ви можете створити потрібний заголовок за допомогою функції перетягування.\n"
         actions:
           - label: Learn More
