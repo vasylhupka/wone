@@ -98,7 +98,7 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: grid_section
-    title: Як це працює
+    title: Як це працює?
     grid_items:
       - title: Що до чого
         title_align: left
