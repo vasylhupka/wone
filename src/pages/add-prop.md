@@ -28,4 +28,4 @@ seo:
       relativeUrl: true
 template: page
 ---
-# [Форма додавання поорад](https://forms.gle/yg1XPm2QWV55N5db7)
+# [**Форма додавання поорад**](https://forms.gle/yg1XPm2QWV55N5db7)
