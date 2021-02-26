@@ -80,7 +80,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/deep-wordpress-theme-plugins.jpg
-        image_alt: плагіни Premium
+        image_alt: Deep плагіни Premium
         media_position: right
         media_width: sixty
         subtitle: Заощаджуйте 701 $
