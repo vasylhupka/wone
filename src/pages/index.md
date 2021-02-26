@@ -93,7 +93,7 @@ sections:
           “I love how lightweight and easy it is to use. It intuitively builds
           into my day-to-day rhythm, and the natural flow of my day.”
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
-        image: images/testimonials.png
+        image: images/Deep.jpg
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
