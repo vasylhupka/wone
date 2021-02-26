@@ -123,5 +123,6 @@
         "content": "&copy; wOne. All rights reserved.  Професійні поради для творців"
     },
     "title": "wOne - професійні поради",
-    "domain": "https://wone.pp.ua"
+    "domain": "https://wone.pp.ua",
+    "favicon": "images/ico.png"
 }
