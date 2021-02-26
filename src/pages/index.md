@@ -120,7 +120,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Activity streak
+      - title: Важливо
         title_align: left
         content: "До вашого нового веб-сайту лише кілька кліків миші.\_Використовуючи Elementor Page Builder та Visual Page Builder, ви можете швидко створити власний веб-сайт.\_\n"
         content_align: left
