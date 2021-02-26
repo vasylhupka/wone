@@ -67,7 +67,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/deep-elementor-sc03-793x468.jpg
-        image_alt: 'Конструктора сторінок Elementor '
+        image_alt: 'Конструктор сторінок Elementor '
         media_position: left
         media_width: sixty
       - title: Включені плагіни Premium
