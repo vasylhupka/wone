@@ -111,9 +111,9 @@ sections:
         image_has_padding: true
       - title: Які мінуси?
         title_align: left
-        content: >-
-          Quit bad habits. Track any bad actions with YourGoal that sabotage
-          your productivity and goal achievement.
+        content: >
+          Ви фактично не володієте плагінами Premium, оновлення надходять лише з
+          темою кожної нової версії.
         content_align: left
         image: images/icon-2.svg
         image_alt: Section item 2 icon
