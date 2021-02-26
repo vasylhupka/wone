@@ -83,7 +83,7 @@ sections:
         image_alt: Feature 3 placeholder image
         media_position: right
         media_width: sixty
-        subtitle: Заощаджуйте 701 ;
+        subtitle: Заощаджуйте 701 $
     feature_padding_vert: large
     align: center
     background_color: none
