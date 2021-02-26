@@ -174,7 +174,7 @@ sections:
       - label: Try for free
         url: /thank-you
         style: primary
-      - label: lorem-ipsum
+      - label: Elementor
         url: '#'
         style: link
         has_icon: false
