@@ -174,6 +174,15 @@ sections:
       - label: Try for free
         url: /thank-you
         style: primary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     actions_width: fourty
     align: center
     padding_top: large
