@@ -201,7 +201,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Startup Theme
+      value: wOne - професійні поради
       keyName: property
     - name: 'og:description'
       value: The preview of the Startup theme
