@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Плагин Elementor Pro
     subtitle: >-
-      Elementor допоможе вам зробити контент привабливим та добре
-      структурованим.
+      Візуальний редактор Elementor допоможе вам зробити контент привабливим та
+      добре структурованим.
     actions:
       - label: Більше
         url: 'https://elementor.com/features/editor'
