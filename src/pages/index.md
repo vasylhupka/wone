@@ -185,7 +185,7 @@ sections:
         type: action
       - label: Deep
         url: '#'
-        style: link
+        style: secondary
         has_icon: true
         icon: arrow-left
         icon_position: right
