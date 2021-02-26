@@ -90,7 +90,10 @@ sections:
   - type: features_section
     features:
       - title: "“Deep - тема WordPress, дуже популярна серед розробників та звичайних користувачів.\_”"
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
+        subtitle: >-
+          29 Преміум-плагіни, привертає увагу дизайнПовна інтеграція
+          WooCommerceСправедлива цінаПожиттєве автоматичне оновленняРозширений
+          блог і журнал1 рік преміальної підтримки
         image: images/Deep.jpg
         image_alt: Ursula Gurnmeister photo
         media_position: left
