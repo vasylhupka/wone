@@ -122,10 +122,7 @@ sections:
         image_has_padding: true
       - title: Activity streak
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "До вашого нового веб-сайту лише кілька кліків миші.\_Використовуючи Elementor Page Builder та Visual Page Builder, ви можете швидко створити власний веб-сайт.\_\n"
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
