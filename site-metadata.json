@@ -33,7 +33,7 @@
                 "label": "+ Додати пораду",
                 "url": "/thank-you",
                 "style": "primary",
-                "has_icon": true,
+                "has_icon": false,
                 "icon_position": "right",
                 "icon": "arrow-right"
             }
