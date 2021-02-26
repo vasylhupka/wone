@@ -39,8 +39,7 @@
             }
         ],
         "has_anncmnt": false,
-        "logo": "images/robust-turtle.png",
-        "logo_alt": "ghj"
+        "logo": "images/robust-turtle.png"
     },
     "footer": {
         "has_primary_nav": true,
