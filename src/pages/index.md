@@ -58,10 +58,7 @@ sections:
         media_position: right
         media_width: sixty
       - title: Achieve Your Goals With Your Friends
-        content: >-
-          Friends are an integral part of our life, a true friend can motivate
-          you to achieve your goals. With Your Goal, you can set goals with your
-          friends and achieve them together.
+        content: "За\_допомогою\_[конструктора](https://elementor.com/)\_сторінок\_[Elementor\_](https://elementor.com/)ви можете редагувати сторінку та одночасно бачити, як вона точно виглядає.\_Elementor має живий дизайн та вбудоване редагування, тому весь процес написання та проектування виконується безпосередньо на сторінці.\_Тема Elementor у межах Deep має унікальні особливості.\_Ви маєте доступ до всіх шорткодів теми Deep як віджети Elementor, і ви можете легко створити всі демонстрації Deep за допомогою Elementor.\n"
         actions:
           - label: Learn More
             url: /thank-you
