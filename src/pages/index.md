@@ -215,7 +215,7 @@ seo:
     - name: 'twitter:title'
       value: wOne - професійні поради
     - name: 'twitter:description'
-      value: The preview of the Startup theme
+      value: Найрізноманітніші поради в різних сферах професійної діяльності
     - name: 'twitter:image'
       value: /images/logo.png
       relativeUrl: true
