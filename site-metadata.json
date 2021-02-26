@@ -35,7 +35,8 @@
                 "style": "primary"
             }
         ],
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "logo": "images/logo.png"
     },
     "footer": {
         "has_primary_nav": true,
