@@ -42,7 +42,7 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: features_section
-    title: Best WordPress Theme
+    title: Best WordPress Theme - Deep
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >
