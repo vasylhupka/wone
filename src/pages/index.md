@@ -71,7 +71,7 @@ sections:
         media_position: left
         media_width: sixty
       - title: Включені плагіни Premium
-        content: "Двадцять дев'ять найпопулярніших та найпотужніших плагінів преміум-класу на суму $ 701 включені до теми Deep.\_Все готово;\_почати!\_Ви знайдете список доступних плагінів теми наступним чином:\n\n*   WPBakery Page Builder\n\n*   King Composer Pro\n\n*   Slider Revolution\n\n*   Element Pack for Elementor\n\n*   WordPress GDPR\n\n*   Ultimate Add-ons\n\n*   The Grid \n\n*   LayerSlider \n\n*   ACF Pro \n\n*   Real Media Library Real Media Library Go Pricing Go Pricing Material White Label Material White Label Opt-In Panda Opt-In Panda Quform Quform JetElements JetElements JetMenu JetMenu JetBlog JetBlog JetTabs JetTabs JetReviews JetReviews JetWooBiulder JetWooBiulder JetBlocks JetBlocks JetEngine JetEngine JetTricks JetTricks JetPopup JetPopup WP Domain Checker WP Domain Checker\n"
+        content: "Двадцять дев'ять найпопулярніших та найпотужніших плагінів преміум-класу на суму $ 701 включені до теми Deep.\_Все готово;\_почати!\_Ви знайдете список доступних плагінів теми наступним чином:\n\n*   WPBakery Page Builder\n\n*   King Composer Pro\n\n*   Slider Revolution\n\n*   Element Pack for Elementor\n\n*   WordPress GDPR\n\n*   Ultimate Add-ons\n\n*   The Grid\n\n*   LayerSlider\n\n*   ACF Pro\n\n*   Real Media Library \n\n*   JetElements \n\n*   JetMenu JetMenu JetBlog JetBlog JetTabs JetTabs JetReviews JetReviews JetWooBiulder JetWooBiulder JetBlocks JetBlocks JetEngine JetEngine JetTricks JetTricks JetPopup JetPopup WP Domain Checker WP Domain Checker\n"
         actions:
           - label: Learn More
             url: /thank-you
