@@ -195,7 +195,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: wOne - професійні поради
-  description: The preview of the Startup theme
+  description: Найрізноманітніші поради в різних сферах професійної діяльності
   extra:
     - name: 'og:type'
       value: website
