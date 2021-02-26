@@ -167,7 +167,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: Ready to get started?
+    title: "Ви\_готові розпочати?"
     content: Start achieving your goals today!
     actions:
       - label: Try for free
