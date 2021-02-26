@@ -120,19 +120,7 @@
         "content": "&copy; wOne. All rights reserved.  Професійні поради для творців",
         "logo_alt": "wOne",
         "logo": "images/logo.png",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "title": "wOne - професійні поради",
     "domain": "https://wone.pp.ua"
