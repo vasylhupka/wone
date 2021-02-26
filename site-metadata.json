@@ -31,7 +31,7 @@
             },
             {
                 "label": "+ Додати пораду",
-                "url": "/add_p",
+                "url": "/add_prop",
                 "style": "primary",
                 "has_icon": false,
                 "icon_position": "right",
