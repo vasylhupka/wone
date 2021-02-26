@@ -30,7 +30,7 @@
                 "style": "secondary"
             },
             {
-                "label": "Додати пораду",
+                "label": "+ Додати пораду",
                 "url": "/thank-you",
                 "style": "primary",
                 "has_icon": true,
