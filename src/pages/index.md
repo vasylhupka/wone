@@ -102,10 +102,7 @@ sections:
     grid_items:
       - title: Що до чого
         title_align: left
-        content: >-
-          Goals take time, hard work, perseverance and commitment to achieve it.
-          With **YourGoal** you can list positive task what helps you to create
-          good habbits.
+        content: "Існує безкоштовна тема WordPress та версія Pro для теми Deep.\_Він поставляється з понад **100** демонстраційними версіями, **500+** попередньо розробленими сторінками та **27+** преміум-плагінами.\n"
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
