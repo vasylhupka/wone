@@ -171,7 +171,7 @@ sections:
     content: |
       Встановіть wordpress + Elementor Page Builder + тему Deep
     actions:
-      - label: Try for free
+      - label: Wordpress
         url: /thank-you
         style: primary
       - label: Elementor
