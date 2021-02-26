@@ -45,11 +45,7 @@ sections:
     title: Best WordPress Theme - Deep
     features:
       - title: All the Activity Data You Need to Improve Yourself
-        content: >
-          \<iframe width="848" height="36"
-          src="https://www.youtube.com/embed/72r0Rokk1qI" frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-          gyroscope; picture-in-picture" allowfullscreen>\</iframe>
+        content: "Deep Theme Header Builder - це найкращий, найпотужніший, а також найбільш настроюваний інструмент у світі для створення заголовків, і іншого такого інструменту раніше не було.\_За допомогою цього інструменту, у візуальному режимі (фоновий редактор або редактор інтерфейсу в реальному часі), ви можете створити потрібний заголовок за допомогою функції перетягування.\n"
         actions:
           - label: Learn More
             url: /thank-you
