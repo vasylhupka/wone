@@ -38,7 +38,8 @@
                 "icon": "arrow-right"
             }
         ],
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "logo": "images/logo.svg"
     },
     "footer": {
         "has_primary_nav": true,
