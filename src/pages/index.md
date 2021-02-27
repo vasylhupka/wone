@@ -11,6 +11,15 @@ sections:
         url: 'https://elementor.com/features/editor'
         style: primary
         new_window: true
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     image: images/elementor-pro-new.JPG
     image_alt: 'Візуальний редактор Elementor '
     media_position: left
