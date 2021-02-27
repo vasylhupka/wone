@@ -39,7 +39,7 @@
             }
         ],
         "has_anncmnt": false,
-        "logo": "images/knowledgeable-owl.svg"
+        "logo": "images/logo.svg"
     },
     "footer": {
         "has_primary_nav": true,
