@@ -44,7 +44,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: blog_feed_section
-    category: src/data/categories/category-6rafk0qm6.json
   - type: grid_section
     title: Підтримка
     align: center
