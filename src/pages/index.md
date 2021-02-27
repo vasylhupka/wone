@@ -53,6 +53,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            new_window: true
         image: images/intro-evisual-p1.png
         image_alt: 'Deep Header Builder '
         media_position: right
