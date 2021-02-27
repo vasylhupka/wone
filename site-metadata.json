@@ -38,8 +38,7 @@
                 "icon": "arrow-right"
             }
         ],
-        "has_anncmnt": false,
-        "logo": "images/logo.svg"
+        "has_anncmnt": false
     },
     "footer": {
         "has_primary_nav": true,
