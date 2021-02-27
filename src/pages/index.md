@@ -214,7 +214,7 @@ sections:
     show_author: false
     show_excerpt: false
     show_image: false
-    align: center
+    align: left
     padding_top: medium
     padding_bottom: medium
     has_border: false
