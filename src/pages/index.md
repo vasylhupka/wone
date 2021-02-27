@@ -87,7 +87,7 @@ sections:
         subtitle: Заощаджуйте 701 $
     feature_padding_vert: large
     align: center
-    background_color: none
+    background_color: primary
   - type: features_section
     features:
       - title: "“Deep - тема WordPress, дуже популярна серед розробників та звичайних користувачів.\_”"
