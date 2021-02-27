@@ -58,6 +58,7 @@ sections:
         image_alt: 'Deep Header Builder '
         media_position: right
         media_width: sixty
+        video_embed_html: 'https://youtu.be/5SX27y_Y_NY'
       - title: Найдосконаліший інтерфейсний конструктор перетягування сторінок
         content: "За\_допомогою\_[конструктора](https://elementor.com/)\_сторінок\_[**Elementor**\_](https://elementor.com/)ви можете редагувати сторінку та одночасно бачити, як вона точно виглядає.\_Elementor має живий дизайн та вбудоване редагування, тому весь процес написання та проектування виконується безпосередньо на сторінці.\_Тема Elementor у межах Deep має унікальні особливості.\_Ви маєте доступ до всіх шорткодів теми Deep як віджети Elementor, і ви можете легко створити всі демонстрації Deep за допомогою Elementor.\n"
         actions:
