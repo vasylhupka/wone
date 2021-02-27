@@ -13,7 +13,7 @@ sections:
         new_window: true
     image: images/elementor-pro-new.JPG
     image_alt: 'Візуальний редактор Elementor '
-    media_position: right
+    media_position: left
     align: center
     padding_top: large
     padding_bottom: small
