@@ -213,7 +213,7 @@ sections:
     show_categories: false
     show_author: false
     show_excerpt: false
-    show_image: true
+    show_image: false
     align: center
     padding_top: medium
     padding_bottom: medium
