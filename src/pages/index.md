@@ -8,7 +8,7 @@ sections:
       добре структурованим.
     actions:
       - label: Більше
-        url: 'https://elementor.com/features/editor'
+        url: 'https://bit.ly/3dXLBlu'
         style: primary
         new_window: true
     image: images/elementor-pro-new.JPG
