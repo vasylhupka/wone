@@ -176,7 +176,7 @@ sections:
         url: /thank-you
         style: primary
       - label: Elementor
-        url: '#'
+        url: 'https://bit.ly/3dXLBlu'
         style: secondary
         has_icon: false
         icon: arrow-left
