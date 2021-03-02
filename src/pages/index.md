@@ -173,7 +173,7 @@ sections:
       Встановіть wordpress + Elementor Page Builder + тему Deep
     actions:
       - label: Wordpress
-        url: /thank-you
+        url: 'https://wordpress.org'
         style: primary
       - label: Elementor
         url: 'https://bit.ly/3dXLBlu'
