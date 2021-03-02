@@ -185,7 +185,7 @@ sections:
         no_follow: false
         type: action
       - label: Deep
-        url: '#'
+        url: 'http://bit.ly/302nnye'
         style: primary
         has_icon: false
         icon: arrow-left
