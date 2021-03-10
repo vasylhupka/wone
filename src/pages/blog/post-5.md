@@ -8,8 +8,7 @@ subtitle: >-
 date: '2021-02-10'
 categories:
   - src/data/categories/tips.yaml
-tags:
-  - src/data/tags/productivity.yaml
+tags: []
 excerpt: >-
   Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
   philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
