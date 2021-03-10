@@ -14,7 +14,7 @@ seo:
       value: "За допомогою Honeygain почніть заробляти гроші в інтернеті всього за кілька хвилин.\_Просто встановіть програму на свій пристрій"
       keyName: property
     - name: 'og:image'
-      value: images/about-1.jpg
+      value: images/f3dd090c38.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
