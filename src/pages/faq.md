@@ -2,7 +2,7 @@
 title: FAQ
 sections:
   - type: hero_section
-    title: Frequently Asked Questions
+    title: Часті запитання
     subtitle: Answers to common questions about YourGoal
     align: center
     padding_top: large
