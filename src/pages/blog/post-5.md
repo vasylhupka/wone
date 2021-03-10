@@ -6,7 +6,6 @@ subtitle: >-
   причини, Honeygainers, ми хочемо поділитися деякими способами заробити
   додаткові гроші.
 date: '2021-02-10'
-author: src/data/team/brandon-guidelines.yaml
 categories:
   - src/data/categories/tips.yaml
 tags:
