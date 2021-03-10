@@ -1,7 +1,7 @@
 ---
 title: About Honeygain
 seo:
-  title: Про Honeygain
+  title: Clara Studio
   description: "За допомогою Honeygain почніть заробляти гроші в інтернеті всього за кілька хвилин.\_Просто встановіть програму на свій пристрій"
   extra:
     - name: 'og:type'
