@@ -167,7 +167,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: wOne - професійні поради
+  title: Спосіб заробити не виходячи з дому
   description: Найрізноманітніші поради в різних сферах професійної діяльності
   extra:
     - name: 'og:type'
