@@ -18,7 +18,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+      value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
       keyName: property
     - name: 'og:description'
       value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
