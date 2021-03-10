@@ -30,7 +30,7 @@
                 "style": "secondary"
             },
             {
-                "label": "кг",
+                "label": "ru",
                 "url": "/add-prop",
                 "style": "primary",
                 "has_icon": false,
