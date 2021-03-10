@@ -22,10 +22,7 @@ sections:
       - title: Як працює Honeygain?
         content: "Як працює\_[Honeygain](http://bit.ly/3bvbbwy)\n\n*   ***Налаштування***\n\nВстановіть\_[програму\_](http://bit.ly/3bvbbwy)на свої пристрої та підключіть їх до Інтернету\n\n*   **Запустити Honeygain**\n\n[Додаток Honeygain](http://bit.ly/3bvbbwy)\_надійно ділиться Інтернетом без доступу до персональних даних\n\n*   **Нехай збирається**\n\nВаше з’єднання використовується для збору бітів інформації з Інтернету\n\n*   **Допомагайте бізнесу**\n\nКомпанії використовують ці зібрані біти для різних послуг (докладніше про це читайте у “бізнес-справах”)\n\n*   **За що платять**\n\nЗаробляйте пасивний дохід, використовуючи підключені пристрої\n"
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: "*   **Налаштування**\n\nВстановіть\_[програму\_](http://bit.ly/3bvbbwy)на свої пристрої та підключіть їх до Інтернету\n\n*   **Запустити Honeygain**\n\n[Додаток Honeygain](http://bit.ly/3bvbbwy)\_надійно ділиться Інтернетом без доступу до персональних даних\n\n*   **Нехай збирається**\n\nВаше з’єднання використовується для збору бітів інформації з Інтернету\n\n*   **Допомагайте бізнесу**\n\nКомпанії використовують ці зібрані біти для різних послуг (докладніше про це читайте у “бізнес-справах”)\n\n*   **За що платять**\n\nЗаробляйте пасивний дохід, використовуючи підключені пристрої\n"
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
