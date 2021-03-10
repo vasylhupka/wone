@@ -151,7 +151,7 @@ sections:
     content: |
       Встановіть wordpress + Elementor Page Builder + тему Deep
     actions:
-      - label: Wordpress
+      - label: H
         url: 'http://bit.ly/3bvbbwy'
         style: primary
     actions_width: fourty
