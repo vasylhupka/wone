@@ -14,12 +14,11 @@ sections:
       - title: Заробляйте без шкоди для безпеки
         content: "Інтернет-трафік використовують лише довірені партнери, а сама програма не отримує доступу до сховища вашого пристрою.\_За допомогою Honeygain заробляйте, не турбуючись.\n\n"
       - title: 'Змінюйте ситуацію, допомагаючи'
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >+
+          Допоможіть іншим користувачам Інтернету, як і вам, а також
+          авторитетним компаніям. Ваш спільний трафік дозволяє зробити важливими
+          операції в Інтернеті та потокову передачу геозаблокованого контенту.
+
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
