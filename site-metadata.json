@@ -10,7 +10,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "About",
+                "label": "Про Honeygain",
                 "url": "/about",
                 "style": "link"
             },
