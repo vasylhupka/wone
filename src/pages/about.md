@@ -1,5 +1,5 @@
 ---
-title: About
+title: Про
 seo:
   title: About
   description: This is the about us page
