@@ -37,7 +37,7 @@ seo:
         Honeygain дозволяє легко отримувати пасивний дохід.
       keyName: property
     - name: 'og:image'
-      value: images/post-5.jpg
+      value: images/hg.JPG
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
