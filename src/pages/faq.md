@@ -79,7 +79,7 @@ seo:
       value: FAQ
       keyName: property
     - name: 'og:description'
-      value: This is the faq page
+      value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
       keyName: property
     - name: 'twitter:card'
       value: summary
