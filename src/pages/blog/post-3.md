@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: The Benefits and Value of Goal Setting
+      value: Не можете використовувати PayPal? Honeygain підтримує BTC
     - name: 'twitter:description'
       value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
     - name: 'twitter:image'
