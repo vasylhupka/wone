@@ -28,24 +28,39 @@ seo:
       relativeUrl: true
 template: page
 ---
-\<iframe width="848" height="36" src="https://www.youtube.com/embed/72r0Rokk1qI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>\</iframe>
+Пасивний дохід - без зусиль.За допомогою Honeygain ви можете заробляти гроші лише на спільному користуванні Інтернетом. Почніть заробляти зараз.
 
 
 
-![](/images/team.jpg)
+### Простий спосіб отримання пасивного доходу
 
-## Work Life Balance
+За допомогою Honeygain почніть заробляти гроші в інтернеті всього за кілька хвилин. Просто встановіть програму на свій пристрій, зареєструйте безкоштовний рахунок, відкиньтесь назад і спостерігайте, як ваш баланс збільшується.
 
-Our goal is for work and life to be controlled in one place, to help you maintain a zen state of mind.
 
-> "Tasks and deadlines should not control our time. We should control what when to pay attention to which task." -- Lorinda Mamo, Designer
 
-With App Land, we strive to make it clear and easy to follow a healthy routine of work effectiveness, collaboration, and also family time and social events.
+Заробляйте без шкоди для безпекиІнтернет-трафік використовують лише довірені партнери, а сама програма не отримує доступу до сховища вашого пристрою. За допомогою Honeygain заробляйте, не турбуючись.
 
-## Careers
+Змінюйте ситуацію, допомагаючиДопоможіть іншим користувачам Інтернету, як і вам, а також авторитетним компаніям. Ваш спільний трафік дозволяє зробити важливими операції в Інтернеті та потокову передачу геозаблокованого контенту.
 
-**We have lots of open positions**. We are always looking for motivated and collaborative people from around the world who share our *passions and values*.
+Як працює Honeygain
 
-![](/images/team-2.jpg)
 
-Our team understands that life is a marathon, and it's super important to make sure you take care of YOU and your needs. This is why we try to remind our users to take time off, reward themselves after a job well done, and put down the phone every once in a while when there's nowhere you have to be, or nothing you need to do.
+### Налаштування
+
+Встановіть програму на свої пристрої та підключіть їх до Інтернету
+
+### Запустити Honeygain
+
+Додаток Honeygain надійно ділиться Інтернетом без доступу до персональних даних
+
+### Нехай збирається
+
+Ваше з’єднання використовується для збору бітів інформації з Інтернету
+
+### Допомагайте бізнесу
+
+Компанії використовують ці зібрані біти для різних послуг (докладніше про це читайте у “бізнес-справах”)
+
+### Платять
+
+Заробляйте пасивний дохід, використовуючи підключені пристрої
