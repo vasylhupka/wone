@@ -21,6 +21,18 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: features_section
+    features:
+      - title: "“Deep - тема WordPress, дуже популярна серед розробників та звичайних користувачів.\_”"
+        subtitle: >-
+          Привертає увагу дизайн, повна інтеграція WooCommerce, справедлива
+          ціна, пожиттєве автоматичне оновлення, 1 рік преміальної підтримки
+        image: images/Deep.jpg
+        image_alt: Ursula Gurnmeister photo
+        media_position: left
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: none
+  - type: features_section
     title: Пасивний дохід - без зусиль
     features:
       - title: Щоденний бонус
@@ -65,18 +77,6 @@ sections:
         subtitle: Ліміт для виводу коштів - $ 20
     feature_padding_vert: large
     align: center
-    background_color: none
-  - type: features_section
-    features:
-      - title: "“Deep - тема WordPress, дуже популярна серед розробників та звичайних користувачів.\_”"
-        subtitle: >-
-          Привертає увагу дизайн, повна інтеграція WooCommerce, справедлива
-          ціна, пожиттєве автоматичне оновлення, 1 рік преміальної підтримки
-        image: images/Deep.jpg
-        image_alt: Ursula Gurnmeister photo
-        media_position: left
-        media_width: thirty-three
-    feature_padding_vert: small
     background_color: none
   - type: grid_section
     title: Як це працює?
