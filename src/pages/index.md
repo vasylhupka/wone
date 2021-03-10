@@ -91,7 +91,7 @@ sections:
           Ви фактично не володієте плагінами Premium, оновлення надходять лише з
           темою кожної нової версії.
         content_align: left
-        image: images/icon-2.svg
+        image: images/ico.svg
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
