@@ -47,7 +47,7 @@ seo:
         Однією з причин, чому ми запровадили виплату BTC, є спрощення процесу та
         можливість використання Honeygain там, де PayPal - проблема.
     - name: 'twitter:image'
-      value: images/post-3.jpg
+      value: images/twitterbluecheckmark.png
       relativeUrl: true
 template: post
 ---
