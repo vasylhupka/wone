@@ -8,10 +8,7 @@ date: '2020-12-28'
 categories:
   - src/data/categories/use-cases.yaml
 tags: []
-excerpt: >-
-  Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
-  dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
-  inquit, me dixisse.
+excerpt: "Не можете використовувати PayPal?\_Honeygain підтримує BTC"
 thumb_image: images/post-3.jpg
 thumb_image_alt: Post 3 placeholder image
 image: images/twitterbluecheckmark.png
