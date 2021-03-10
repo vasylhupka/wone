@@ -1,8 +1,10 @@
 ---
 title: Чому Honeygain - найкращий додаток Side Hustler?
 subtitle: >-
-  Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
-  senectus.
+  Зібрана статистика показує нам зміни та важливість обдумування найкращих
+  способів отримати більше доходу та забезпечити фінансову стабільність. З цієї
+  причини, Honeygainers, ми хочемо поділитися деякими способами заробити
+  додаткові гроші.
 date: '2021-02-10'
 author: src/data/team/brandon-guidelines.yaml
 categories:
