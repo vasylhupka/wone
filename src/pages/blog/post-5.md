@@ -49,7 +49,7 @@ seo:
         Якщо одна з ваших цілей - заробити додаткові гроші, то вам пощастило.
         Honeygain дозволяє легко отримувати пасивний дохід.
     - name: 'twitter:image'
-      value: images/images/maroon-sage.JPG
+      value: images/hg.JPG
       relativeUrl: true
 template: post
 ---
