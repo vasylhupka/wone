@@ -60,7 +60,7 @@ sections:
             icon_position: right
         image: images/desc1.JPG
         image_alt: Deep плагіни Premium
-        media_position: right
+        media_position: left
         media_width: sixty
         subtitle: Ліміт для виводу коштів - $ 20
     feature_padding_vert: large
