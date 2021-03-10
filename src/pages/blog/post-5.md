@@ -1,5 +1,5 @@
 ---
-title: How to Set Team Goals The Right Way
+title: Чому Honeygain - найкращий додаток Side Hustler?
 subtitle: >-
   Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique
   senectus.
