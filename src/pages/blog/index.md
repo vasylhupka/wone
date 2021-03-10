@@ -30,7 +30,7 @@ seo:
       value: Blog
       keyName: property
     - name: 'og:description'
-      value: This is the blog page
+      value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
       keyName: property
     - name: 'og:image'
       value: images/post-5.png
