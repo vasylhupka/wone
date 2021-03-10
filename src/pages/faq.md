@@ -51,17 +51,7 @@ sections:
       - title: Чому відбулося раптове зменшення заробітку?
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Заробіток може коливатися щодня.\_Якщо ви помітили різке зниження протягом доби - не хвилюйтеся.\_Є дві причини, чому трафік може тимчасово\nскоротитися\_:\_1) Велика кількість користувачів раптово приєдналася до Honeygain у вашому районі.\n2\\) Наші клієнти зменшили попит на трафік у вашому районі.\n"
         content_align: left
         actions: []
         actions_align: left
