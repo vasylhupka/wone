@@ -91,5 +91,9 @@ seo:
       value: /images/post-4.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/post-4.jpg
+      keyName: property
+      relativeUrl: true
 template: advanced
 ---
