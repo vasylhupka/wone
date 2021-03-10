@@ -45,7 +45,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/deep-elementor-sc03-793x468.jpg
+        image: images/zdynvi5zutl61.png
         image_alt: 'Конструктор сторінок Elementor '
         media_position: left
         media_width: sixty
