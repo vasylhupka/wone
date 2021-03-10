@@ -19,7 +19,7 @@ sections:
           авторитетним компаніям. Ваш спільний трафік дозволяє зробити важливими
           операції в Інтернеті та потокову передачу геозаблокованого контенту.
 
-      - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
+      - title: Як працює Honeygain?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
           Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
