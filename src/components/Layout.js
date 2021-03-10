@@ -20,6 +20,8 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.seo.description', null) || ''} />
+                    <meta name="google-site-verification" content="l56AvvwzqdGuD2QuqjpaRJM93kdXw-JLkV6f8cWF5_w" />
+            
                     {_.get(this.props, 'pageContext.frontmatter.seo.robots', null) && (
                     <meta name="robots" content={_.join(_.get(this.props, 'pageContext.frontmatter.seo.robots', null), ',')}/>
                     )}
