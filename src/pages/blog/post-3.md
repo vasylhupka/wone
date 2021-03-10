@@ -8,7 +8,10 @@ date: '2020-12-28'
 categories:
   - src/data/categories/use-cases.yaml
 tags: []
-excerpt: "Не можете використовувати PayPal?\_Honeygain підтримує BTC"
+excerpt: >-
+  Інтерес у всьому світі зростає, проте не всі знають, як користуватися
+  біткойнами. Однією з причин, чому ми запровадили виплату BTC, є спрощення
+  процесу та можливість використання Honeygain там, де PayPal - проблема.
 thumb_image: images/post-3.jpg
 thumb_image_alt: Post 3 placeholder image
 image: images/twitterbluecheckmark.png
