@@ -35,7 +35,7 @@
         ],
         "has_anncmnt": false,
         "logo": "images/logo.svg",
-        "anncmnt_align": "right"
+        "anncmnt_align": "left"
     },
     "footer": {
         "has_primary_nav": true,
