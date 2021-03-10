@@ -136,7 +136,7 @@ sections:
     background_color: none
   - type: blog_feed_section
     title: What's New
-    blog_feed_cols: two
+    blog_feed_cols: three
     enable_cards: true
     show_recent: true
     recent_count: 3
