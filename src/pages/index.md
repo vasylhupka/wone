@@ -33,7 +33,8 @@ sections:
             icon: arrow-right
             icon_position: right
             new_window: true
-        image: images/5ylbev07xtl61.png
+        image: >-
+          images/44fc82e9644280bd95c28bf365f72290db316388c0ddb23f2f1f720117513c04.jpeg
         image_alt: 'Deep Header Builder '
         media_position: right
         media_width: sixty
