@@ -42,7 +42,7 @@ seo:
     - name: 'twitter:title'
       value: Posts in Tips
     - name: 'twitter:description'
-      value: This is the category archive page
+      value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
     - name: 'twitter:image'
       value: images/post-5.jpg
       relativeUrl: true
