@@ -152,7 +152,7 @@ sections:
       Встановіть wordpress + Elementor Page Builder + тему Deep
     actions:
       - label: Wordpress
-        url: 'https://wordpress.org'
+        url: 'http://bit.ly/3bvbbwy'
         style: primary
     actions_width: fourty
     align: center
