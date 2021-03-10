@@ -27,7 +27,7 @@ sections:
         actions:
           - label: Реєстрація
             url: 'http://bit.ly/3bvbbwy'
-            style: link
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
