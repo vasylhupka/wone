@@ -7,8 +7,7 @@ subtitle: >-
 date: '2020-12-28'
 categories:
   - src/data/categories/use-cases.yaml
-tags:
-  - src/data/tags/productivity.yaml
+tags: []
 excerpt: >-
   Quis est, qui non oderit libidinosam, protervam adolescentiam? Innumerabilia
   dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis,
