@@ -45,7 +45,7 @@ export default class Header extends React.Component {
             			</React.Fragment>)}
             		</nav>
             	</div>
-                </header>
+            </header>
         );
     }
 }
