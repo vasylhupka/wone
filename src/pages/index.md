@@ -11,7 +11,7 @@ sections:
         url: 'https://bit.ly/3dXLBlu'
         style: primary
         new_window: true
-    image: images/elementor-pro-new.JPG
+    image: images/a22dc92f5f76d1274a981019fa9fbaa1.jpg
     image_alt: 'Візуальний редактор Elementor '
     media_position: left
     align: center
