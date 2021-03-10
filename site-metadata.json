@@ -72,7 +72,7 @@
             {
                 "label": "Registration in Honeygain",
                 "url": "http://bit.ly/3bvbbwy",
-                "style": "link",
+                "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
