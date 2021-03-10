@@ -25,7 +25,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: The Benefits and Value of Goal Setting
+      value: Не можете використовувати PayPal? Honeygain підтримує BTC
       keyName: property
     - name: 'og:description'
       value: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
