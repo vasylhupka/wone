@@ -20,11 +20,7 @@ sections:
           операції в Інтернеті та потокову передачу геозаблокованого контенту.
 
       - title: Як працює Honeygain?
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: "Як працює\_[Honeygain](http://bit.ly/3bvbbwy)\n\n*   ***Налаштування***\n\nВстановіть\_[програму\_](http://bit.ly/3bvbbwy)на свої пристрої та підключіть їх до Інтернету\n\n*   **Запустити Honeygain**\n\n[Додаток Honeygain](http://bit.ly/3bvbbwy)\_надійно ділиться Інтернетом без доступу до персональних даних\n\n*   **Нехай збирається**\n\nВаше з’єднання використовується для збору бітів інформації з Інтернету\n\n*   **Допомагайте бізнесу**\n\nКомпанії використовують ці зібрані біти для різних послуг (докладніше про це читайте у “бізнес-справах”)\n\n*   **За що платять**\n\nЗаробляйте пасивний дохід, використовуючи підключені пристрої\n"
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
