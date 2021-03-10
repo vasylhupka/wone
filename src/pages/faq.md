@@ -70,7 +70,7 @@ sections:
     background_color: none
 seo:
   title: FAQ
-  description: This is the faq page
+  description: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
   extra:
     - name: 'og:type'
       value: website
