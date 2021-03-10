@@ -45,7 +45,9 @@ seo:
     - name: 'twitter:title'
       value: How to Set Team Goals The Right Way
     - name: 'twitter:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: >-
+        Якщо одна з ваших цілей - заробити додаткові гроші, то вам пощастило.
+        Honeygain дозволяє легко отримувати пасивний дохід.
     - name: 'twitter:image'
       value: images/post-5.jpg
       relativeUrl: true
