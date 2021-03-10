@@ -86,6 +86,6 @@ seo:
     - name: 'twitter:title'
       value: FAQ
     - name: 'twitter:description'
-      value: This is the faq page
+      value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
 template: advanced
 ---
