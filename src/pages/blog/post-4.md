@@ -11,7 +11,7 @@ image: images/post-4.jpg
 image_alt: Post 4 placeholder image
 image_position: right
 seo:
-  title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+  title: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
   description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
   extra:
     - name: 'og:type'
