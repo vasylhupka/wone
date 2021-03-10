@@ -148,7 +148,7 @@ sections:
     background_color: none
   - type: cta_section
     title: "Ви\_готові розпочати?"
-    content: "[Зареєструйтесь за моїм реферальним посиланням](http://bit.ly/3bvbbwy) щоб отримати\_**5 доларів США\_**на ваш рахунок.\n"
+    content: "[Зареєструйтесь за моїм реферальним посиланням](http://bit.ly/3bvbbwy) щоб отримати\_5 $ на ваш рахунок.\n"
     actions:
       - label: TH
         url: 'http://bit.ly/3bvbbwy'
