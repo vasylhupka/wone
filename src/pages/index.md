@@ -6,7 +6,7 @@ sections:
     subtitle: "Ви можете використовувати додаток Honeygain,\_якщо ви не проти поділитися своїми інтернетом у фоновому режимі вашого пристрою, ви навіть не повинні помічати, що Honeygain працює.\_Встановіть програму honeygain на свій пристрій Android або Windows."
     actions:
       - label: Більше
-        url: 'https://r.honeygain.me/HUPKACD7E8'
+        url: 'https://bit.ly/3dXLBlu'
         style: primary
         new_window: true
     image: images/a22dc92f5f76d1274a981019fa9fbaa1.jpg
