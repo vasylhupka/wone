@@ -11,7 +11,7 @@ seo:
       value: Про Honeygain
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: "За допомогою Honeygain почніть заробляти гроші в інтернеті всього за кілька хвилин.\_Просто встановіть програму на свій пристрій"
       keyName: property
     - name: 'og:image'
       value: images/about-1.jpg
