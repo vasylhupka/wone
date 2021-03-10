@@ -24,7 +24,10 @@ seo:
       value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
       keyName: property
     - name: 'og:description'
-      value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+      value: >-
+        Більшість можливостей заробляння грошей часто вимагають значних
+        інвестицій. Однак інтернет відкрив можливості, які з вашого боку не так
+        великих інвестицій.
       keyName: property
     - name: 'og:image'
       value: images/post-4.jpg
