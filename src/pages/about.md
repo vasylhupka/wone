@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: About
     - name: 'twitter:description'
-      value: This is the about us page
+      value: "За допомогою Honeygain почніть заробляти гроші в інтернеті всього за кілька хвилин.\_Просто встановіть програму на свій пристрій"
     - name: 'twitter:image'
       value: images/about-1.jpg
       relativeUrl: true
