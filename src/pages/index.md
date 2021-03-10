@@ -179,7 +179,9 @@ seo:
       value: wOne - професійні поради
       keyName: property
     - name: 'og:description'
-      value: Найрізноманітніші поради в різних сферах професійної діяльності
+      value: >-
+        З Honeygain ви зможете заробити додаткові гроші, відвідуючи свої
+        улюблені веб-сторінки!
       keyName: property
     - name: 'og:image'
       value: /images/logo.png
