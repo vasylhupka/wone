@@ -41,7 +41,7 @@ seo:
     - name: 'twitter:title'
       value: News
     - name: 'twitter:description'
-      value: This is the blog page
+      value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
     - name: 'twitter:image'
       value: images/post-5.png
       relativeUrl: true
