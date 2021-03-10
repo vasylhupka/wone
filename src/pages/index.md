@@ -21,19 +21,6 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: features_section
-    features:
-      - title: "“Deep - тема WordPress, дуже популярна серед розробників та звичайних користувачів.\_”"
-        subtitle: >-
-          Привертає увагу дизайн, повна інтеграція WooCommerce, справедлива
-          ціна, пожиттєве автоматичне оновлення, 1 рік преміальної підтримки
-        image: images/a22dc92f5f76d1274a981019fa9fbaa1.jpg
-        image_alt: Ursula Gurnmeister photo
-        media_position: left
-        media_width: thirty-three
-        align: right
-    feature_padding_vert: small
-    background_color: none
-  - type: features_section
     title: Пасивний дохід - без зусиль
     features:
       - content: "[**Honeygain**](http://bit.ly/3bvbbwy)\_є законною компанією і буде платити вам за обмін даними.\_Додаток - це міжнародний додаток, який працює на всіх пристроях Windows, Mac IOS та Android.\_... Я б\_**не** рекомендував використовувати цю програму, якщо ви щомісяця користуєтеся обмеженим тарифним планом.\_\n\nВстановіть його за вказаним посиланням у кінці цього допису та отримайте додатковий бонус у розмірі 5 доларів.\n"
@@ -129,6 +116,19 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     align: center
+    background_color: none
+  - type: features_section
+    features:
+      - title: "“Deep - тема WordPress, дуже популярна серед розробників та звичайних користувачів.\_”"
+        subtitle: >-
+          Привертає увагу дизайн, повна інтеграція WooCommerce, справедлива
+          ціна, пожиттєве автоматичне оновлення, 1 рік преміальної підтримки
+        image: images/a22dc92f5f76d1274a981019fa9fbaa1.jpg
+        image_alt: Ursula Gurnmeister photo
+        media_position: left
+        media_width: thirty-three
+        align: right
+    feature_padding_vert: small
     background_color: none
   - type: blog_feed_section
     title: What's New
