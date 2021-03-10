@@ -11,7 +11,7 @@ sections:
     grid_items:
       - title: Простий спосіб отримання пасивного доходу
         content: "За допомогою Honeygain почніть заробляти гроші в Інтернеті всього за кілька хвилин.\_Просто встановіть програму на свій пристрій, зареєструйте безкоштовний рахунок, відкиньтесь назад і спостерігайте, як ваш баланс збільшується.\n\n"
-      - title: Sagittis vitae et leo duis ut diam?
+      - title: Заробляйте без шкоди для безпеки
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
