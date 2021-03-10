@@ -25,17 +25,7 @@ sections:
       - title: "Я хотів би робити бізнес із Honeygain.\_Які кроки?"
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Перш за все - перейдіть на нашу ділову сторінку та скористайтесь формою запиту для клієнтів.\_Ми зв'яжемося з вами найближчим часом і проведемо вас через результати оцінки наших партнерів.\n"
         content_align: left
         actions: []
         actions_align: left
