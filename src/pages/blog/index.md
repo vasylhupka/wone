@@ -27,7 +27,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: News
       keyName: property
     - name: 'og:description'
       value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
