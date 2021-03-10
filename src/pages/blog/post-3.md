@@ -19,7 +19,9 @@ image_alt: Post 3 placeholder image
 image_position: top
 seo:
   title: Не можете використовувати PayPal? Honeygain підтримує BTC
-  description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
+  description: >-
+    Однією з причин, чому ми запровадили виплату BTC, є спрощення процесу та
+    можливість використання Honeygain там, де PayPal - проблема.
   extra:
     - name: 'og:type'
       value: article
