@@ -15,13 +15,13 @@
                 "style": "link"
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
+                "label": "Новини",
+                "url": "/blog",
                 "style": "link"
             },
             {
-                "label": "Новини",
-                "url": "/blog",
+                "label": "FAQ",
+                "url": "/faq",
                 "style": "link"
             },
             {
