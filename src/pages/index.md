@@ -9,7 +9,7 @@ sections:
         url: 'http://bit.ly/3bvbbwy'
         style: primary
         new_window: true
-    image: images/a22dc92f5f76d1274a981019fa9fbaa1.jpg
+    image: images/f3dd090c38.jpg
     image_alt: 'Візуальний редактор Elementor '
     media_position: left
     align: center
