@@ -46,7 +46,6 @@ export default class Header extends React.Component {
             		</nav>
             	</div>
             </header>
-            <meta name="google-site-verification" content="l56AvvwzqdGuD2QuqjpaRJM93kdXw-JLkV6f8cWF5_w" />
         );
     }
 }
