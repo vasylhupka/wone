@@ -38,7 +38,10 @@ seo:
     - name: 'twitter:title'
       value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
     - name: 'twitter:description'
-      value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+      value: >-
+        Більшість можливостей заробляння грошей часто вимагають значних
+        інвестицій. Однак інтернет відкрив можливості, які з вашого боку не так
+        великих інвестицій.
     - name: 'twitter:image'
       value: images/post-4.jpg
       relativeUrl: true
