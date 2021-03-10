@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Спосіб заробити не виходячи з дому
-    subtitle: >-
-      Візуальний редактор Elementor допоможе вам зробити контент привабливим та
-      добре структурованим.
+    subtitle: "Ви можете використовувати додаток Honeygain, щоб продати невикористану пропускну здатність або Інтернет-дані.\_Встановіть програму honeygain на свій пристрій Android або Windows."
     actions:
       - label: Більше
         url: 'https://bit.ly/3dXLBlu'
