@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Плагин Elementor Pro
+    title: Спосіб заробити не виходячи з дому
     subtitle: >-
       Візуальний редактор Elementor допоможе вам зробити контент привабливим та
       добре структурованим.
