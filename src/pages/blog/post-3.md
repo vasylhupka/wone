@@ -18,7 +18,7 @@ image: images/twitterbluecheckmark.png
 image_alt: Post 3 placeholder image
 image_position: top
 seo:
-  title: The Benefits and Value of Goal Setting
+  title: Не можете використовувати PayPal? Honeygain підтримує BTC
   description: 'Quis est, qui non oderit libidinosam, protervam adolescentiam'
   extra:
     - name: 'og:type'
