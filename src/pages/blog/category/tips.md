@@ -22,7 +22,7 @@ sections:
     has_border: true
 seo:
   title: Posts in Tips
-  description: This is the category archive page
+  description: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
   extra:
     - name: 'og:type'
       value: website
