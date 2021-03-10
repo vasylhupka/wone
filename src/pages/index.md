@@ -50,7 +50,7 @@ sections:
         media_position: left
         media_width: sixty
       - title: Справедливий щомісячний дохід
-        content: "Двадцять дев'ять найпопулярніших та найпотужніших плагінів преміум-класу на суму $ 701  включені до теми Deep.\_Все готово: почати!\_Cписок доступних плагінів:\n\n*   WPBakery Page Builder\n\n*   King Composer Pro\n\n*   Slider Revolution\n\n*   Element Pack for Elementor\n\n*   WordPress GDPR\n\n*   Ultimate Add-ons\n\n*   The Grid\n\n*   LayerSlider\n\n*   ACF Pro\n\n*   Real Media Library\n\n*   JetElements\n\n*   JetMenu\n\n*   JetBlog\n\n*   JetTabs\n\n*   JetReviews\n\n*   JetWooBiulder\n\n*   JetBlocks\n\n*   JetEngine\n\n*   JetTricks\n\n*   JetPopup\n\n*   WP Domain Checker...\n"
+        content: "Сума, яку ви можете заробити, залежить від того, на скільки пристроїв у вас встановлена ​​програма та скільки у вас невикористаних даних.\n\nВи заробляєте кредити за кожен принесений КБ даних, і, зібравши достатньо кредитів, ви можете конвертувати їх у готівку.\n\nHoneygain має онлайн-калькулятор для оцінки ваших заробітків.\_Вони оцінюють ваш приблизний заробіток, виходячи з того, скільки годин ви працюєте, і чим довше у вас це буде, тим більше ви заробите.\n\nВони стверджують, що якщо ви запускаєте Honeygain 24 години на добу, а це 720 годин на місяць, ви можете заробляти\_**50 доларів на місяць.**\n\nЦе справедливий щомісячний дохід лише для того, щоб дозволити програмі працювати у фоновому режимі.\n"
         actions:
           - label: Купити
             url: 'http://bit.ly/302nnye'
