@@ -10,9 +10,10 @@ categories:
   - src/data/categories/tips.yaml
 tags: []
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Зібрана статистика показує нам зміни та важливість обдумування найкращих
+  способів отримати більше доходу та забезпечити фінансову стабільність. З цієї
+  причини, Honeygainers, ми хочемо поділитися деякими способами заробити
+  додаткові гроші.
 thumb_image: images/maroon-sage.JPG
 thumb_image_alt: Post 5 placeholder image
 image: images/hg.JPG
