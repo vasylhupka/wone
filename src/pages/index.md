@@ -62,7 +62,7 @@ sections:
         image_alt: Deep плагіни Premium
         media_position: right
         media_width: sixty
-        subtitle: Ліміт для виводу грошей - $ 20
+        subtitle: Ліміт для виводу коштів - $ 20
     feature_padding_vert: large
     align: center
     background_color: none
