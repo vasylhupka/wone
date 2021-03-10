@@ -1,5 +1,5 @@
 ---
-title: Про
+title: Про Honeygain
 seo:
   title: About
   description: This is the about us page
