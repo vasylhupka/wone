@@ -87,9 +87,7 @@ sections:
         image_has_padding: true
       - title: Які мінуси?
         title_align: left
-        content: >
-          Ви фактично не володієте плагінами Premium, оновлення надходять лише з
-          темою кожної нової версії.
+        content: "Мінімальна сума, на яку ви можете подати запит і отримати\_**виплату, становить 20 доларів США.**\n\nВ даний час доступні два способи виплат -\_**PayPal та Bitcoin.**\n"
         content_align: left
         image: images/ico.svg
         image_alt: Section item 2 icon
