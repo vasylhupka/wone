@@ -31,7 +31,7 @@ seo:
       value: Posts in Tips
       keyName: property
     - name: 'og:description'
-      value: This is the category archive page
+      value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
       keyName: property
     - name: 'og:image'
       value: images/post-5.jpg
