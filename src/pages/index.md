@@ -176,7 +176,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: wOne - професійні поради
+      value: Honeygain - спосіб заробити не виходячи з дому
       keyName: property
     - name: 'og:description'
       value: >-
