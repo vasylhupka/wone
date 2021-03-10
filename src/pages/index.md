@@ -192,7 +192,9 @@ seo:
     - name: 'twitter:title'
       value: wOne - професійні поради
     - name: 'twitter:description'
-      value: Найрізноманітніші поради в різних сферах професійної діяльності
+      value: >-
+        З Honeygain ви зможете заробити додаткові гроші, відвідуючи свої
+        улюблені веб-сторінки!
     - name: 'twitter:image'
       value: /images/logo.png
       relativeUrl: true
