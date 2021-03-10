@@ -32,7 +32,7 @@ sections:
             icon: arrow-right
             icon_position: right
             new_window: true
-            label: Реєструйся і отримай
+            label: 'Реєструйся тут і отримай '
         image: images/5ylbev07xtl61.png
         image_alt: 'Deep Header Builder '
         media_position: right
