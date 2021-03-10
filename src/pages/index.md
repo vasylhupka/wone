@@ -5,7 +5,7 @@ sections:
     title: Плагин Elementor Pro
     subtitle: >-
       Візуальний редактор Elementor допоможе вам зробити контент привабливим та
-      добре структурованим
+      добре структурованим.
     actions:
       - label: Більше
         url: 'https://bit.ly/3dXLBlu'
