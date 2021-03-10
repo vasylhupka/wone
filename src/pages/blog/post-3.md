@@ -1,8 +1,10 @@
 ---
 title: The Benefits and Value of Goal Setting
 subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+  Понаднормовий інтерес у всьому світі зростає, проте не всі знають, як
+  користуватися біткойнами. Однією з причин, чому ми запровадили виплату BTC, є
+  спрощення процесу та можливість використання Honeygain там, де PayPal -
+  проблема.
 date: '2020-12-28'
 author: src/data/team/brandon-guidelines.yaml
 categories:
