@@ -27,7 +27,7 @@ sections:
         content: "Щоденні винагороди!\_Це круто.\_Якщо ви замало заробляєте, тепер, принаймні, у вас є плюс до заробітку.\_Настільки ж просто, як увійти в систему щодня і через кілька секунд з’явиться такий знак:\n![](https://preview--wone-75f84.stackbit.dev/images/44fc82e9644280bd95c28bf365f72290db316388c0ddb23f2f1f720117513c04.jpeg)\n\nПісля того, як ми натиснемо, з’явиться більший плакат, подібний до цього що зправа:\n"
         actions:
           - label: Більше
-            url: 'http://bit.ly/302nnye'
+            url: 'http://bit.ly/3bvbbwy'
             style: primary
             has_icon: true
             icon: arrow-right
