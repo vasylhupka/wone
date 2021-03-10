@@ -25,11 +25,6 @@
                 "style": "link"
             },
             {
-                "label": "Log in",
-                "url": "/thank-you",
-                "style": "secondary"
-            },
-            {
                 "label": "ru",
                 "url": "/add-prop",
                 "style": "primary",
