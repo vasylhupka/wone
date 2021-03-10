@@ -2,7 +2,7 @@
 title: Blog
 sections:
   - type: hero_section
-    title: Новини
+    title: News
     align: center
     padding_top: medium
     padding_bottom: none
