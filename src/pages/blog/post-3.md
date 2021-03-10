@@ -6,7 +6,6 @@ subtitle: >-
   спрощення процесу та можливість використання Honeygain там, де PayPal -
   проблема.
 date: '2020-12-28'
-author: src/data/team/brandon-guidelines.yaml
 categories:
   - src/data/categories/use-cases.yaml
 tags:
