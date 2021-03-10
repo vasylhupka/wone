@@ -1,8 +1,6 @@
 ---
 title: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
-subtitle: >-
-  Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior
-  effectus est, hilara vita amissa est.
+subtitle: Шукаєте спосіб заробляти гроші в Інтернеті?
 date: '2021-01-15'
 author: src/data/team/dianne-ameter.yaml
 categories:
