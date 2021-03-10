@@ -181,7 +181,7 @@ seo:
     - name: 'og:description'
       value: >-
         З Honeygain ви зможете заробити додаткові гроші, відвідуючи свої
-        улюблені веб-сторінки!
+        улюблені веб-сторінки!, це простий заробіток в інтернеті
       keyName: property
     - name: 'og:image'
       value: /images/logon.svg
