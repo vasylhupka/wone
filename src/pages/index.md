@@ -26,7 +26,7 @@ sections:
         subtitle: >-
           Привертає увагу дизайн, повна інтеграція WooCommerce, справедлива
           ціна, пожиттєве автоматичне оновлення, 1 рік преміальної підтримки
-        image: images/Deep.jpg
+        image: images/a22dc92f5f76d1274a981019fa9fbaa1.jpg
         image_alt: Ursula Gurnmeister photo
         media_position: left
         media_width: thirty-three
