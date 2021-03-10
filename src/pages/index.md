@@ -184,7 +184,7 @@ seo:
         улюблені веб-сторінки!
       keyName: property
     - name: 'og:image'
-      value: /images/logo.png
+      value: /images/logon.svg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
