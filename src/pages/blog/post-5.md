@@ -43,7 +43,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: How to Set Team Goals The Right Way
+      value: Чому Honeygain - найкращий додаток Side Hustler?
     - name: 'twitter:description'
       value: >-
         Якщо одна з ваших цілей - заробити додаткові гроші, то вам пощастило.
