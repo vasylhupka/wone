@@ -12,10 +12,7 @@ sections:
       - title: Простий спосіб отримання пасивного доходу
         content: "За допомогою Honeygain почніть заробляти гроші в Інтернеті всього за кілька хвилин.\_Просто встановіть програму на свій пристрій, зареєструйте безкоштовний рахунок, відкиньтесь назад і спостерігайте, як ваш баланс збільшується.\n\n"
       - title: Заробляйте без шкоди для безпеки
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: "Інтернет-трафік використовують лише довірені партнери, а сама програма не отримує доступу до сховища вашого пристрою.\_За допомогою Honeygain заробляйте, не турбуючись.\n\n"
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
