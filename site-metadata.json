@@ -75,11 +75,6 @@
         "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
-                "url": "/terms-conditions",
-                "style": "link"
-            },
-            {
                 "label": "Privacy Policy",
                 "url": "/privacy-policy",
                 "style": "link"
