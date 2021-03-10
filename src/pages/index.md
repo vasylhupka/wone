@@ -58,7 +58,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/deep-wordpress-theme-plugins.jpg
+        image: images/desc.JPG
         image_alt: Deep плагіни Premium
         media_position: right
         media_width: sixty
