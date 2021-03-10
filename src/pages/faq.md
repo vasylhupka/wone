@@ -38,17 +38,7 @@ sections:
       - title: Яка поточна ставка виплат?
         subtitle: lorem-ipsum
         title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "За спільний доступ до мережі ви отримаєте 1 кредит за 10 МБ трафіку, який проходить через ваші пристрої.\_Тож за спільні 10 ГБ ви заробите 1 долар США.\_Що стосується доставки вмісту (якщо вона доступна у вашому регіоні), ви будете заробляти 10 кредитів за кожну годину, коли доставка вмісту є \"Активною\" та працює (Зверніть увагу, що \"В черзі\" не враховується як Активна).\n"
         content_align: left
         actions: []
         actions_align: left
