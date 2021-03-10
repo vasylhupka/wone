@@ -35,7 +35,7 @@ seo:
         можливість використання Honeygain там, де PayPal - проблема.
       keyName: property
     - name: 'og:image'
-      value: images/post-3.jpg
+      value: images/twitterbluecheckmark.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
