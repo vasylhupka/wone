@@ -20,7 +20,7 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Blog
+  title: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
   description: This is the blog page
   extra:
     - name: 'og:type'
