@@ -12,7 +12,10 @@ image_alt: Post 4 placeholder image
 image_position: right
 seo:
   title: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
-  description: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
+  description: >-
+    Більшість можливостей заробляння грошей часто вимагають значних інвестицій.
+    Однак інтернет відкрив можливості, які з вашого боку не так великих
+    інвестицій.
   extra:
     - name: 'og:type'
       value: article
