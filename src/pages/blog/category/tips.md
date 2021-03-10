@@ -2,7 +2,7 @@
 title: Tips
 sections:
   - type: hero_section
-    title: Posts in Tips
+    title: Поради
     align: center
     padding_top: medium
     padding_bottom: none
