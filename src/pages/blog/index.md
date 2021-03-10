@@ -20,7 +20,7 @@ sections:
     padding_bottom: large
     has_border: true
 seo:
-  title: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
+  title: News
   description: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
   extra:
     - name: 'og:type'
