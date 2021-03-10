@@ -196,7 +196,7 @@ seo:
         З Honeygain ви зможете заробити додаткові гроші, відвідуючи свої
         улюблені веб-сторінки!
     - name: 'twitter:image'
-      value: /images/logo.png
+      value: /images/logon.svg
       relativeUrl: true
 template: advanced
 ---
