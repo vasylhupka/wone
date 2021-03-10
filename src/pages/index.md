@@ -71,7 +71,10 @@ sections:
     grid_items:
       - title: Що до чого
         title_align: left
-        content: "Існує безкоштовна тема WordPress та версія Pro для теми Deep.\_Він поставляється з понад **100** демонстраційними версіями, **500+** попередньо розробленими сторінками та **27+** преміум-плагінами.\n"
+        content: >
+          Встановіть програму honeygain на свій пристрій Android або Windows.
+          Встановіть його за вказаним [**посиланням**](http://bit.ly/3bvbbwy) у
+          кінці цього допису та отримайте додатковий бонус у розмірі 5 доларів.
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
