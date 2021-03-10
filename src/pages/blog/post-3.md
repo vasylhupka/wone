@@ -15,7 +15,7 @@ excerpt: >-
   inquit, me dixisse.
 thumb_image: images/post-3.jpg
 thumb_image_alt: Post 3 placeholder image
-image: images/post-3.jpg
+image: images/buy--300x200.jpg
 image_alt: Post 3 placeholder image
 image_position: top
 seo:
