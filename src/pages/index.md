@@ -20,25 +20,6 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
-  - type: grid_section
-    title: Підтримка
-    align: center
-    grid_items:
-      - image: images/wp.png
-        image_alt: Logo 1
-        image_align: center
-      - image: images/woo.png
-        image_alt: Logo 2
-        image_align: center
-      - image: images/webbuild.png
-        image_alt: Logo 3
-        image_align: center
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: medium
-    padding_top: small
-    padding_bottom: medium
-    background_color: none
   - type: features_section
     title: Найкраща тема WordPress - Deep
     features:
