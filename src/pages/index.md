@@ -58,7 +58,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/desc.JPG
+        image: images/desc1.JPG
         image_alt: Deep плагіни Premium
         media_position: right
         media_width: sixty
