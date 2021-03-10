@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
+      value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
     - name: 'twitter:description'
       value: 'Itaque hoc frequenter dici solet a vobis, non intellegere nos'
     - name: 'twitter:image'
