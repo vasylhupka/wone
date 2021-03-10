@@ -1,5 +1,5 @@
 ---
-title: Про Honeygain
+title: About Honeygain
 seo:
   title: Про Honeygain
   description: "За допомогою Honeygain почніть заробляти гроші в інтернеті всього за кілька хвилин.\_Просто встановіть програму на свій пристрій"
