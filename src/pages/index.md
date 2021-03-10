@@ -190,7 +190,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Honeygain - спосіб заробити не виходячи з дому
+      value: Honeygain - спосіб заробити через інтернет
     - name: 'twitter:description'
       value: >-
         З Honeygain ви зможете заробити додаткові гроші, відвідуючи свої
