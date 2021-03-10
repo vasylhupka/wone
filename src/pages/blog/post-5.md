@@ -20,7 +20,7 @@ image: images/hg.JPG
 image_alt: Post 5 placeholder image
 image_position: right
 seo:
-  title: How to Set Team Goals The Right Way
+  title: Чому Honeygain - найкращий додаток Side Hustler?
   description: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
   extra:
     - name: 'og:type'
