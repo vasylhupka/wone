@@ -150,7 +150,7 @@ sections:
     title: "Ви\_готові розпочати?"
     content: "[Зареєструйтесь за моїм реферальним посиланням](http://bit.ly/3bvbbwy) щоб отримати\_5 $ на ваш рахунок.\n"
     actions:
-      - label: Реєструватися на honeygain
+      - label: Реєструватися на Honeygain
         url: 'http://bit.ly/3bvbbwy'
         style: primary
     actions_width: fourty
