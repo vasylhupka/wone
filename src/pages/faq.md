@@ -87,5 +87,9 @@ seo:
       value: FAQ
     - name: 'twitter:description'
       value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
+    - name: 'og:image'
+      value: /images/post-4.jpg
+      keyName: property
+      relativeUrl: true
 template: advanced
 ---
