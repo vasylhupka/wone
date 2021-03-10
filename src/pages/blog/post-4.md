@@ -2,7 +2,6 @@
 title: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
 subtitle: Шукаєте спосіб заробляти гроші в Інтернеті?
 date: '2021-01-15'
-author: src/data/team/dianne-ameter.yaml
 categories:
   - src/data/categories/tips.yaml
 excerpt: >-
