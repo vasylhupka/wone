@@ -42,7 +42,7 @@
         "primary_nav_title": "Company",
         "primary_nav_links": [
             {
-                "label": "Про Honeygain",
+                "label": "About Honeygain",
                 "url": "/about",
                 "style": "link"
             },
