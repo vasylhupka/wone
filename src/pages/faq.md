@@ -2,7 +2,7 @@
 title: FAQ
 sections:
   - type: hero_section
-    title: Часті запитання
+    title: FAQ
     align: center
     padding_top: large
     padding_bottom: none
