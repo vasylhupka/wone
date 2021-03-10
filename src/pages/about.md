@@ -1,7 +1,7 @@
 ---
 title: Про Honeygain
 seo:
-  title: About
+  title: Про Honeygain
   description: "За допомогою Honeygain почніть заробляти гроші в інтернеті всього за кілька хвилин.\_Просто встановіть програму на свій пристрій"
   extra:
     - name: 'og:type'
