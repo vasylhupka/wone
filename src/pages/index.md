@@ -98,7 +98,10 @@ sections:
         image_has_padding: true
       - title: Важливо
         title_align: left
-        content: "До вашого нового веб-сайту лише кілька кліків миші.\_Використовуючи Elementor Page Builder та Visual Page Builder, ви можете швидко створити власний веб-сайт.\_\n"
+        content: >
+          Це, безумовно, цікавий додаток, і буквально це визначення «пасивного
+          доходу», оскільки поза реєстрацією в програмі вам не потрібно робити
+          ніякої іншої роботи.
         content_align: left
         image: images/icon-3.svg
         image_alt: Section item 3 icon
