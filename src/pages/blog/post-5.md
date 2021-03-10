@@ -34,7 +34,11 @@ seo:
       value: How to Set Team Goals The Right Way
       keyName: property
     - name: 'og:description'
-      value: 'Estne, quaeso, inquam, sitienti in bibendo voluptas'
+      value: >-
+        Зібрана статистика показує нам зміни та важливість обдумування найкращих
+        способів отримати більше доходу та забезпечити фінансову стабільність. З
+        цієї причини, Honeygainers, ми хочемо поділитися деякими способами
+        заробити додаткові гроші.
       keyName: property
     - name: 'og:image'
       value: images/post-5.jpg
