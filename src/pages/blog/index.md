@@ -3,7 +3,6 @@ title: Blog
 sections:
   - type: hero_section
     title: Новини
-    subtitle: Planning and productivity insights
     align: center
     padding_top: medium
     padding_bottom: none
