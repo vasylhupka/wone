@@ -144,7 +144,7 @@ sections:
     has_border: false
     background_color: none
   - type: cta_section
-    title: "Ви\_готові розпочати?"
+    title: Вы готовы начать?
     content: "[Зареєструйтесь за цим реферальним посиланням](http://bit.ly/3bvbbwy) щоб отримати\_5 $ на ваш рахунок.\n"
     actions:
       - label: Реєструватися на Honeygain
