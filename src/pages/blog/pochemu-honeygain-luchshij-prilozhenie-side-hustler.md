@@ -51,7 +51,7 @@ seo:
       relativeUrl: true
 template: post
 thumb_image: images/maroon-sage.JPG
-image: images/hg.JPG
+image: images/ruhg.JPG
 author: src/data/team/ua.yaml
 ---
 Ще з багатьох причин Honeygain хотів би звернути увагу на особисті фінанси і, що ще важливіше, на додаткові способи заробітку чи навіть - отримання безкоштовних грошей! Наприклад:
