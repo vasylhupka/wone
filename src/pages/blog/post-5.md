@@ -15,7 +15,7 @@ excerpt: >-
   причини, Honeygainers, ми хочемо поділитися деякими способами заробити
   додаткові гроші.
 thumb_image: images/maroon-sage.JPG
-thumb_image_alt: Post 5 placeholder image
+thumb_image_alt: найкращий додаток
 image: images/hg.JPG
 image_alt: Post 5 placeholder image
 image_position: right
