@@ -67,7 +67,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Як це працює?
+    title: Как это работает?
     grid_items:
       - title: Що до чого
         title_align: left
