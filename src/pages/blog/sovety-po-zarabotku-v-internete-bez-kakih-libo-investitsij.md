@@ -46,7 +46,7 @@ seo:
       relativeUrl: true
 template: post
 thumb_image: images/post-4.jpg
-image: images/post-4.jpg
+image: images/sovety.jpg
 author: src/data/team/ua.yaml
 ---
 Интернет имеет много потенциалов, когда дело доходит до заработка. На самом деле это изменило игры для большого количества людей, которые используют его, чтобы зарабатывать на жизнь. В 2019 году около [57000000 человек работали дома фрилансерами](https://translate.google.com/website?sl=auto\&tl=ru\&u=https://ddiy.co/freelance-statistics/) . Вы можете воспользоваться фриланса, магазинами электронной коммерции и даже приложениями, чтобы зарабатывать деньги.
