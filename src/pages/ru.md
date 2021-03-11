@@ -161,7 +161,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Honeygain - спосіб заробити не виходячи з дому
+  title: 'Honeygain - способ заработать в интернете, заработок онлайн'
   description: >-
     З Honeygain ви зможете заробити додаткові гроші, відвідуючи свої улюблені
     веб-сторінки!, це простий заробіток в інтернеті
