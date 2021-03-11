@@ -70,4 +70,3 @@ export default class Post extends React.Component {
     }
 }
 
-
