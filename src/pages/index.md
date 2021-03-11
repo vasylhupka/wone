@@ -59,7 +59,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/desc1.JPG
-        image_alt: Заробляю  на Honeygain
+        image_alt: Заробляю в інтернеті на Honeygain
         media_position: left
         media_width: sixty
         subtitle: Ліміт для виводу коштів - $ 20
