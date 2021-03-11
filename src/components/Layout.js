@@ -21,7 +21,7 @@ export default class Body extends React.Component {
                     <meta name="google" content="notranslate" />
                     <meta name="description" content={_.get(this.props, 'pageContext.frontmatter.seo.description', null) || ''} />
                     <meta name="google-site-verification" content="l56AvvwzqdGuD2QuqjpaRJM93kdXw-JLkV6f8cWF5_w" />
-                    
+                    <meta name="yandex-verification" content="79f7c46f92f9dee5" />
                     {_.get(this.props, 'pageContext.frontmatter.seo.robots', null) && (
                     <meta name="robots" content={_.join(_.get(this.props, 'pageContext.frontmatter.seo.robots', null), ',')}/>
                     )}
