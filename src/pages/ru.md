@@ -87,7 +87,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Важливо
+      - title: Важно
         title_align: left
         content: >
           Це, безумовно, цікавий додаток, і буквальним є це визначення
