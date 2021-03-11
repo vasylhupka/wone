@@ -67,7 +67,7 @@ export default class Post extends React.Component {
             </article>
             </Layout>
 
-
+            
 
         );
     }
