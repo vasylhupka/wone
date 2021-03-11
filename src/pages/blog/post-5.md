@@ -17,7 +17,7 @@ excerpt: >-
 thumb_image: images/maroon-sage.JPG
 thumb_image_alt: Найкращий додаток для заробітку в інтернеті
 image: images/hg.JPG
-image_alt: Post 5 placeholder image
+image_alt: Найкращий додаток для заробітку в інтернеті
 image_position: right
 seo:
   title: Чому Honeygain - найкращий додаток Side Hustler?
