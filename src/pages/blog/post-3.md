@@ -13,7 +13,7 @@ excerpt: >-
   біткойнами. Однією з причин, чому ми запровадили виплату BTC, є спрощення
   процесу та можливість використання Honeygain там, де PayPal - проблема.
 thumb_image: images/twitterbluecheckmark.png
-thumb_image_alt: Post 3 placeholder image
+thumb_image_alt: 'Робота онлайн '
 image: images/twitterbluecheckmark.png
 image_alt: Post 3 placeholder image
 image_position: top
