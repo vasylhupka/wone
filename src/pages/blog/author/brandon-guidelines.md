@@ -1,5 +1,5 @@
 ---
-title: Brandon Guidelines
+title: гф
 sections:
   - type: hero_section
     title: Posts by Brandon Guidelines
