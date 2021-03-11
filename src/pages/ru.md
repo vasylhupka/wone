@@ -71,14 +71,7 @@ sections:
     grid_items:
       - title: Что к чему
         title_align: left
-        content: >
-          Встановіть програму honeygain на свій пристрій Android або Windows.
-          Встановіть його за вказаним [**посиланням**](http://bit.ly/3bvbbwy) у
-          кінці цього допису та отримайте додатковий бонус у розмірі 5 доларів.
-
-
-          Зареєструйтеся та увійдіть до програми, і нехай вона працює у фоновому
-          режимі.
+        content: "Установите программу honeygain на устройство Android или Windows.\_Установите его по указанному\_[**ссылкой**](https://translate.google.com/website?sl=auto\\&tl=ru\\&u=http://bit.ly/3bvbbwy)\_в конце этого сообщения и получите дополнительный бонус в размере 5 долларов.\nЗарегистрируйтесь и войдите в программу, и она работает в фоновом режиме.\n"
         content_align: left
         image: images/icon-1.svg
         image_alt: Section item 1 icon
