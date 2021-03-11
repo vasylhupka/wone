@@ -19,7 +19,7 @@ image: images/hg.JPG
 image_alt: Найкращий додаток для заробітку в інтернеті
 image_position: right
 seo:
-  title: Чому Honeygain - найкращий додаток Side Hustler?
+  title: Honeygain - додаток для заробітку в інтернеті
   description: >-
     Якщо одна з ваших цілей - заробити додаткові гроші, то вам пощастило.
     Honeygain дозволяє легко отримувати пасивний дохід.
