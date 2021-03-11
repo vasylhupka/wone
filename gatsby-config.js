@@ -28,12 +28,6 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
-        },
-        {
-            resolve: `gatsby-plugin-disqus`,
-            options: {
-                shortname: `wone-1`
-            }
-         },
+        }
     ]
 };
