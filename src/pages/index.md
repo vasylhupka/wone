@@ -10,7 +10,7 @@ sections:
         style: primary
         new_window: true
     image: images/f3dd090c38.jpg
-    image_alt: 'Візуальний редактор Elementor '
+    image_alt: Реальний заробіток в інтернеті з Honeygain
     media_position: left
     align: center
     padding_top: large
