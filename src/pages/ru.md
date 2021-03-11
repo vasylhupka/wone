@@ -78,7 +78,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Як заробляти більше?
+      - title: Как зарабатывать больше?
         title_align: left
         content: "Діє реферальна система - Запросіть друзів і отримайте **10%**\n\nМінімальна сума, на яку ви можете подати запит і отримати\_**виплату, становить 20 доларів США.**\n\nВ даний час доступні два способи виплат -\_**PayPal та Bitcoin.**\n"
         content_align: left
