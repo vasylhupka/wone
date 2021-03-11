@@ -62,6 +62,9 @@ export default class Post extends React.Component {
             		<footer className="post__footer mt-4 mt-md-5">
             			<BlogPostTags {...this.props} tags={_.get(this.props, 'pageContext.frontmatter.tags', null)} />
             		</footer>
+
+
+
             		)}
             	</div>
             </article>
