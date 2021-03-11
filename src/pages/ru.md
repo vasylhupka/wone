@@ -121,7 +121,7 @@ sections:
           любимые веб-страницы!
         subtitle: "1. Возможность дополнительного заработка без необходимости выполнения конкретных задач.\_2. Не предусматривает дополнительных расходов.\_3. Чуткий интерфейс."
         image: images/a22dc92f5f76d1274a981019fa9fbaa1.jpg
-        image_alt: Ursula Gurnmeister photo
+        image_alt: Превратите пользования интернетом в деньги
         media_position: left
         media_width: thirty-three
         align: right
