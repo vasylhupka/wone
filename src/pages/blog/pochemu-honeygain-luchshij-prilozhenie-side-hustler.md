@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: How to Set Team Goals The Right Way
+      value: Honeygain - приложение для заработка в інтернете
       keyName: property
     - name: 'og:description'
       value: >-
