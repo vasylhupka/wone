@@ -99,7 +99,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Ефективність
+      - title: эффективность
         title_align: left
         content: "Ви можете використовувати додаток Honeygain для обміну інтернет трафіком.\_Процес заробітку полягає в тому, що ви віддаєте свій інтернет трафік, яким ви не користувались.\n"
         content_align: left
