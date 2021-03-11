@@ -25,14 +25,6 @@
                 "style": "link"
             },
             {
-                "label": "en",
-                "url": "#",
-                "style": "primary",
-                "has_icon": false,
-                "icon_position": "right",
-                "icon": "arrow-right"
-            },
-            {
                 "label": "ru",
                 "url": "ru",
                 "style": "primary",
@@ -42,6 +34,14 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "en",
+                "url": "#",
+                "style": "primary",
+                "has_icon": false,
+                "icon_position": "right",
+                "icon": "arrow-right"
             }
         ],
         "has_anncmnt": false,
