@@ -10,7 +10,7 @@ sections:
         style: primary
         new_window: true
     image: images/f3dd090c38.jpg
-    image_alt: Реальный заработок с Honeygain
+    image_alt: Реальный заработок в интернете с Honeygain
     media_position: left
     align: center
     padding_top: large
