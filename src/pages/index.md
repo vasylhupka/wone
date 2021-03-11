@@ -191,7 +191,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Honeygain - спосіб заробити через інтернет
+      value: 'Honeygain - спосіб заробити в інтернеті, заробіток онлайн'
     - name: 'twitter:description'
       value: >-
         З Honeygain ви зможете заробити додаткові гроші, відвідуючи свої
