@@ -150,7 +150,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: none
-    author: src/data/team/ru.yaml
   - type: cta_section
     title: "Ви\_готові розпочати?"
     content: "[Зареєструйтесь за цим реферальним посиланням](http://bit.ly/3bvbbwy) щоб отримати\_5 $ на ваш рахунок.\n"
