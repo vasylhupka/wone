@@ -63,7 +63,13 @@ export default class Post extends React.Component {
             			<BlogPostTags {...this.props} tags={_.get(this.props, 'pageContext.frontmatter.tags', null)} />
             		</footer>
 
-
+<script src = "https://cdn.fastcomments.com/js/embed.min.js"> </script>
+<div id = "fastcomments-widget"> </div>
+<сценарій>
+    window.FastCommentsUI (document.getElementById ('fastcomments-widget'), {
+        tenantId: 'демо'
+    });
+</script>
 
             		)}
             	</div>
