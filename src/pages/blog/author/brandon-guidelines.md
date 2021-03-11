@@ -2,7 +2,7 @@
 title: ua
 sections:
   - type: hero_section
-    title: Posts by Brandon Guidelines
+    title: ua
     align: center
     padding_top: medium
     padding_bottom: none
