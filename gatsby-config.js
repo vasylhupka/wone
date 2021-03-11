@@ -28,7 +28,7 @@ module.exports = {
                 sourceUrlPath: `fields.url`,
                 pageContextProperty: `menus`,
             }
-        }
+        },
         // gatsby-config.js
 module.exports = {
     plugins: [
