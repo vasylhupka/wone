@@ -34,5 +34,6 @@ module.exports = {
             options: {
                 shortname: `wone-1`
             }
+         },
     ]
 };
