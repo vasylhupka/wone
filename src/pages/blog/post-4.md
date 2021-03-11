@@ -6,7 +6,7 @@ categories:
   - src/data/categories/tips.yaml
 excerpt: "Шукаєте спосіб заробляти гроші в Інтернеті?\_Більшість можливостей заробляння грошей часто вимагають значних інвестицій. Однак інтернет відкрив можливості, які з вашого боку не так великих інвестицій."
 thumb_image: images/post-4.jpg
-thumb_image_alt: Post 4 placeholder image
+thumb_image_alt: Поради щодо заробітку в Інтернеті
 image: images/post-4.jpg
 image_alt: Post 4 placeholder image
 image_position: right
