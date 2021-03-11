@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Чому Honeygain - найкращий додаток Side Hustler?
+      value: Honeygain - приложение для заработка в інтернете
     - name: 'twitter:description'
       value: >-
         Если одна из ваших целей - заработать дополнительные деньги, то вам
