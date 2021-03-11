@@ -170,7 +170,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Honeygain - спосіб заробити не виходячи з дому
+      value: 'Honeygain - способ заработать в интернете, заработок онлайн'
       keyName: property
     - name: 'og:description'
       value: >-
