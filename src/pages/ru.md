@@ -46,7 +46,7 @@ sections:
             new_window: true
             label: Регистрируйся здесь и получи 5 $
         image: images/5ylbev07xtl61.png
-        image_alt: 'Deep Header Builder '
+        image_alt: Ежемесячный доход в интернете
         media_position: right
         media_width: sixty
       - title: Справедливий щомісячний дохід
