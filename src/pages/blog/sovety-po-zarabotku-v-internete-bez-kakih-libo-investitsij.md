@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
+      value: Советы по заработку в интернете без каких-либо инвестиций
       keyName: property
     - name: 'og:description'
       value: >-
