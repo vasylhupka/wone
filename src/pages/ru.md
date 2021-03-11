@@ -69,7 +69,7 @@ sections:
   - type: grid_section
     title: Как это работает?
     grid_items:
-      - title: Що до чого
+      - title: Что к чему
         title_align: left
         content: >
           Встановіть програму honeygain на свій пристрій Android або Windows.
