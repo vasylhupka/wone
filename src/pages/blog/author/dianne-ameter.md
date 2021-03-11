@@ -2,7 +2,7 @@
 title: ru
 sections:
   - type: hero_section
-    title: Posts by Dianne Ameter
+    title: ru
     align: center
     padding_top: medium
     padding_bottom: none
