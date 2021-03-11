@@ -144,7 +144,7 @@ sections:
     show_date: true
     show_categories: true
     show_author: true
-    show_excerpt: false
+    show_excerpt: true
     align: center
     padding_top: medium
     padding_bottom: medium
