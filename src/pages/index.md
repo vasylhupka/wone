@@ -32,7 +32,7 @@ sections:
             icon: arrow-right
             icon_position: right
         image: images/zdynvi5zutl61.png
-        image_alt: 'Конструктор сторінок Elementor '
+        image_alt: Реальна робота в інтернеті
         media_position: left
         media_width: sixty
       - title: Щоденний бонус
