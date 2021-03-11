@@ -34,7 +34,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Поради щодо заробітку в Інтернеті без будь-яких інвестицій
+      value: Советы по заработку в интернете без каких-либо инвестиций
     - name: 'twitter:description'
       value: >-
         Большинство возможностей зарабатывания денег требуют значительных
