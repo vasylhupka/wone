@@ -34,8 +34,8 @@ seo:
       value: Чому Honeygain - найкращий додаток Side Hustler?
     - name: 'twitter:description'
       value: >-
-        Якщо одна з ваших цілей - заробити додаткові гроші, то вам пощастило.
-        Honeygain дозволяє легко отримувати пасивний дохід.
+        Если одна из ваших целей - заработать дополнительные деньги, то вам
+        повезло. Honeygain позволяет легко получать пассивный доход.
     - name: 'twitter:image'
       value: images/hg.JPG
       relativeUrl: true
