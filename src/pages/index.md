@@ -138,7 +138,7 @@ sections:
     title: Новини
     blog_feed_cols: three
     enable_cards: true
-    show_recent: true
+    show_recent: false
     recent_count: 3
     show_image: true
     show_date: true
