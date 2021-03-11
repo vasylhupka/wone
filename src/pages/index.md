@@ -46,7 +46,7 @@ sections:
             new_window: true
             label: Реєструйся тут і отримай 5$
         image: images/5ylbev07xtl61.png
-        image_alt: щомісячний дохід в інтернеті
+        image_alt: Щомісячний дохід в інтернеті
         media_position: right
         media_width: sixty
       - title: Справедливий щомісячний дохід
