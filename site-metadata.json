@@ -45,8 +45,8 @@
             },
             {
                 "label": "ua",
-                "url": "u",
-                "style": "link",
+                "url": "/",
+                "style": "primary",
                 "has_icon": false,
                 "icon": "arrow-left",
                 "icon_position": "right",
