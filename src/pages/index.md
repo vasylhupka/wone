@@ -9,7 +9,7 @@ sections:
       використовуваним вами інтернет трафіком. Додаток працює на всіх пристроях
       Windows, Mac IOS та Android.
     actions:
-      - label: Перейдіть щоб отримати 5 $ на ваш рахунок для початку
+      - label: Перейдіть щоб отримати 5 $ на ваш рахунок для старту
         url: 'http://bit.ly/3bvbbwy'
         style: primary
         new_window: true
