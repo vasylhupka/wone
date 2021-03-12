@@ -149,7 +149,7 @@ sections:
     padding_top: medium
     padding_bottom: medium
     has_border: true
-    background_color: none
+    background_color: primary
     author: src/data/team/ua.yaml
   - type: cta_section
     title: "Ви\_готові розпочати?"
