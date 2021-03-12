@@ -22,7 +22,7 @@
             {
                 "label": "About Honeygain",
                 "url": "/about",
-                "style": "link"
+                "style": "secondary"
             },
             {
                 "label": "ua",
