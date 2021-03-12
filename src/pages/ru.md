@@ -144,7 +144,6 @@ sections:
     has_border: false
     background_color: none
     author: src/data/team/ru.yaml
-    subtitle: news
   - type: cta_section
     title: Вы готовы начать?
     content: "[Зареєструйтесь за цим реферальним посиланням](http://bit.ly/3bvbbwy) щоб отримати\_5 $[Зарегистрируйтесь за этим реферальной ссылке](https://translate.google.com/website?sl=auto\\&tl=ru\\&u=http://bit.ly/3bvbbwy)\_чтобы получить 5 $ на ваш счет.\n"
