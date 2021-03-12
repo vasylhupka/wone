@@ -185,7 +185,7 @@ seo:
         улюблені веб-сторінки!, це простий заробіток в інтернеті
       keyName: property
     - name: 'og:image'
-      value: /images/f3dd090c38.jpg
+      value: /images/fierce-crane.JPG
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
