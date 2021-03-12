@@ -178,7 +178,7 @@ seo:
         любимые веб-страницы, это простой заработок в интернете
       keyName: property
     - name: 'og:image'
-      value: /images/logon.svg
+      value: /images/fierce-crane.JPG
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
