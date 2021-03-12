@@ -17,7 +17,7 @@
             {
                 "label": "FAQ",
                 "url": "/faq",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "About Honeygain",
