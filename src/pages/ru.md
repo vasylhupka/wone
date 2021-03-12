@@ -147,7 +147,7 @@ sections:
     actions: []
   - type: cta_section
     title: Вы готовы начать?
-    content: "[Зареєструйтесь за цим реферальним посиланням](http://bit.ly/3bvbbwy) щоб отримати\_5 $[Зарегистрируйтесь за этим реферальной ссылке](https://translate.google.com/website?sl=auto\\&tl=ru\\&u=http://bit.ly/3bvbbwy)\_чтобы получить 5 $ на ваш счет.\n"
+    content: "[Зареєструйтесь за цим реферальним посиланням](http://bit.ly/3bvbbwy) щоб отримати\_5 $ на ваш счет.\n"
     actions:
       - label: Зарегистрироваться на Honeygain
         url: 'http://bit.ly/3bvbbwy'
