@@ -12,7 +12,7 @@
             {
                 "label": "News",
                 "url": "/blog",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "FAQ",
