@@ -148,7 +148,7 @@ sections:
     align: center
     padding_top: medium
     padding_bottom: medium
-    has_border: true
+    has_border: false
     background_color: none
     author: src/data/team/ua.yaml
   - type: cta_section
