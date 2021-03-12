@@ -49,7 +49,7 @@
             {
                 "label": "en",
                 "url": "#",
-                "style": "primary",
+                "style": "link",
                 "has_icon": false,
                 "icon_position": "right",
                 "icon": "arrow-right"
