@@ -23,6 +23,7 @@ sections:
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
+    image: images/заработок онлайн.jpg
   - type: features_section
     title: >-
       Это интересное приложение, и буквальным здесь есть определение «пассивного
