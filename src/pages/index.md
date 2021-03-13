@@ -12,7 +12,7 @@ sections:
         url: 'http://bit.ly/3bvbbwy'
         style: primary
         new_window: true
-    image: images/f3dd090c38.jpg
+    image: images/marvelous-triceratops.jpg
     image_alt: Реальний заробіток в інтернеті з Honeygain
     media_position: left
     align: center
