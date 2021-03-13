@@ -10,7 +10,7 @@ excerpt: >-
   біткойнами. Однією з причин, чому ми запровадили виплату BTC, є спрощення
   процесу та можливість використання Honeygain там, де PayPal - проблема.
 thumb_image_alt: Honeygain поддерживает BTC
-image_alt: 'Реальна робота онлайн '
+image_alt: Honeygain поддерживает BTC
 image_position: top
 seo:
   title: Не можете використовувати PayPal? Honeygain підтримує BTC
