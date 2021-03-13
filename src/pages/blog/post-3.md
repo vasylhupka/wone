@@ -14,7 +14,7 @@ excerpt: >-
 thumb_image: images/twitterbluecheckmark.png
 thumb_image_alt: Honeygain підтримує BTC
 image: images/twitterbluecheckmark.png
-image_alt: 'Реальна робота онлайн '
+image_alt: Honeygain підтримує BTC
 image_position: top
 seo:
   title: Не можете використовувати PayPal? Honeygain підтримує BTC
