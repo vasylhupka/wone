@@ -44,7 +44,6 @@ seo:
       value: images/dc.JPG
       relativeUrl: true
 template: post
-thumb_image: images/twitterbluecheckmark.png
 image: images/dc.JPG
 author: src/data/team/ru.yaml
 ---
