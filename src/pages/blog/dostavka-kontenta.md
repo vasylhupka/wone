@@ -48,7 +48,6 @@ seo:
       relativeUrl: true
 template: post
 thumb_image: images/twitterbluecheckmark.png
-author: src/data/team/ru.yaml
 image: images/dc.JPG
 ---
 Поскольку доставка контента использует сетевое подключение пользователей для контента с интенсивным использованием полосы пропускания, ему **требуется стабильное сетевое подключение** . Доставка контента доступна на устройствах **Windows и macOS** с последней версией Honeygain, поскольку устройства Windows и macOS имеют более стабильное сетевое соединение, чем мобильные устройства Android.
