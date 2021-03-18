@@ -31,7 +31,7 @@ seo:
         контента
       keyName: property
     - name: 'og:image'
-      value: images/twitterbluecheckmark.png
+      value: images/dc.JPG
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
