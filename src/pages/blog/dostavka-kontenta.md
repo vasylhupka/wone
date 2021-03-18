@@ -13,7 +13,7 @@ thumb_image_alt: Доставка контента в Honeygain
 image_alt: Доставка контента в Honeygain
 image_position: top
 seo:
-  title: Не можете використовувати PayPal? Honeygain підтримує BTC
+  title: Доставка контента с Honeygain
   description: >-
     Однією з причин, чому ми запровадили виплату BTC, є спрощення процесу та
     можливість використання Honeygain там, де PayPal - проблема.
