@@ -37,7 +37,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Не можете використовувати PayPal? Honeygain підтримує BTC
+      value: Доставка контента с Honeygain
     - name: 'twitter:description'
       value: >-
         Доставка контента - это последняя функция Honeygain, которая позволяет
