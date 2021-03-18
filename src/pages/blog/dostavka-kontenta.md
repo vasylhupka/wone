@@ -22,7 +22,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Не можете використовувати PayPal? Honeygain підтримує BTC
+      value: Доставка контента с Honeygain
       keyName: property
     - name: 'og:description'
       value: >-
