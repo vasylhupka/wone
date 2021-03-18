@@ -5,10 +5,7 @@ date: '2021-03-13'
 categories:
   - src/data/categories/use-cases.yaml
 tags: []
-excerpt: >-
-  Интерес во всем мире растет, однако не все знают, как пользоваться биткойном.
-  Одной из причин, почему мы ввели выплату BTC, является упрощение процесса и
-  возможность использования Honeygain там, где PayPal - проблема.
+excerpt: Доставка контента в Honeygain
 thumb_image_alt: Доставка контента в Honeygain
 image_alt: Доставка контента в Honeygain
 image_position: top
