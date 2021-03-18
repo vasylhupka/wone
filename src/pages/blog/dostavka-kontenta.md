@@ -44,7 +44,7 @@ seo:
         пользователям совместно использовать свое интернет-соединение для
         контента
     - name: 'twitter:image'
-      value: images/twitterbluecheckmark.png
+      value: images/dc.JPG
       relativeUrl: true
 template: post
 thumb_image: images/twitterbluecheckmark.png
