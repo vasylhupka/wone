@@ -133,4 +133,6 @@ image: images/dc.JPG
 
 *Примечание. Если приложение Honeygain для Windows / macOS показывает, что доставка контента недоступна, это не означает, что наше приложение не использует вашу полосу пропускания в Интернете. Наше приложение по-прежнему использует вашу пропускную способность в Интернете, и вы зарабатываете за это кредиты. Это означает, что функция не работает по определенным причинам. Вы можете узнать больше о доставке контента ниже.*
 
-**[**Получите 5 долларов на ваш счет в Honeygain**](https://translate.google.com/website?sl=auto\&tl=ru\&u=http://bit.ly/3bvbbwy)
+> [**Получите 5 долларов на ваш счет в Honeygain**](https://translate.google.com/website?sl=auto&tl=ru&u=http://bit.ly/3bvbbwy)
+>
+> [****](https://translate.google.com/website?sl=auto&tl=ru&u=http://bit.ly/3bvbbwy)
