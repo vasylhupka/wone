@@ -26,8 +26,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Однією з причин, чому ми запровадили виплату BTC, є спрощення процесу та
-        можливість використання Honeygain там, де PayPal - проблема.
+        Доставка контента - это последняя функция Honeygain, которая позволяет
+        пользователям совместно использовать свое интернет-соединение для
+        контента
       keyName: property
     - name: 'og:image'
       value: images/twitterbluecheckmark.png
