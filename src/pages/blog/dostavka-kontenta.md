@@ -5,7 +5,7 @@ date: '2021-03-13'
 categories:
   - src/data/categories/use-cases.yaml
 tags: []
-excerpt: Доставка контента в Honeygain
+excerpt: "Доставка контента\_- это последняя функция Honeygain, которая позволяет пользователям совместно использовать свое интернет-соединение для контента с интенсивным использованием полосы пропускания, такого как изображения, видео, аудио, тяжелые веб-сайты, IPTV, VoIP и т. д."
 thumb_image_alt: Доставка контента в Honeygain
 image_alt: Доставка контента в Honeygain
 image_position: top
