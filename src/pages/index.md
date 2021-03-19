@@ -106,7 +106,7 @@ sections:
           потрібно робити ніякої іншої роботи.
         content_align: left
         image: images/icon-3.svg
-        image_alt: 'Важливо в '
+        image_alt: Важливо в Honeygain
         image_position: top
         image_align: left
         image_has_padding: true
