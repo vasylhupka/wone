@@ -80,7 +80,7 @@ sections:
         content: "Установите программу honeygain на устройство Android или Windows.\_Установите его по указанному\_[**ссылкой**](https://translate.google.com/website?sl=auto\\&tl=ru\\&u=http://bit.ly/3bvbbwy)\_в конце этого сообщения и получите дополнительный бонус в размере 5 долларов.\nЗарегистрируйтесь и войдите в программу, и она работает в фоновом режиме.\n"
         content_align: left
         image: images/icon-1.svg
-        image_alt: Section item 1 icon
+        image_alt: 'Что к чему с '
         image_position: top
         image_align: left
         image_has_padding: true
