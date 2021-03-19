@@ -110,7 +110,7 @@ sections:
         content: "Вы можете использовать приложение Honeygain для обмена интернет трафиком.\_Процесс заработка состоит в том, что вы отдаете свой интернет трафик, которым вы не пользовались.\n"
         content_align: left
         image: images/icon-4.svg
-        image_alt: Section item 4 icon
+        image_alt: 'Эффективность '
         image_position: top
         image_align: left
         image_has_padding: true
