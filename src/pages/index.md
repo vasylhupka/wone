@@ -97,6 +97,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
+        image: images/ico.png
       - title: Важливо
         title_align: left
         content: >
