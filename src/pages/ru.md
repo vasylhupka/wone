@@ -88,7 +88,6 @@ sections:
         title_align: left
         content: "Действует реферальная система - Пригласите друзей и получите\_**10%**\n\nМинимальная сумма, на которую вы можете подать запрос и получить\_**выплату, составляет 20 долларов США.**\n\nВ настоящее время доступны два способа выплат -\_**PayPal и Bitcoin.**\n"
         content_align: left
-        image: images/ico.svg
         image_alt: Section item 2 icon
         image_position: top
         image_align: left
