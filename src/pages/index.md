@@ -85,7 +85,7 @@ sections:
           режимі.
         content_align: left
         image: images/icon-1.svg
-        image_alt: 'Що до чого в '
+        image_alt: Що до чого в honeygain
         image_position: top
         image_align: left
         image_has_padding: true
