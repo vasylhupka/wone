@@ -161,7 +161,6 @@ sections:
     background_image_repeat: no-repeat
     type: cta_section
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
     actions: []
     image_alt: lorem-ipsum
     video_embed_html: >-
