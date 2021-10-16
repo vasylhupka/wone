@@ -168,7 +168,7 @@ sections:
       src="https://wone.pp.ua/images/mv.gif" /></a>
     media_position: top
     media_width: sixty
-    align: left
+    align: center
     padding_top: medium
     padding_bottom: medium
     has_border: false
