@@ -153,7 +153,7 @@ sections:
       src="https://wone.pp.ua/images/images.jpg" /></a>
     media_position: right
     media_width: fourty
-    align: left
+    align: right
     padding_top: medium
     padding_bottom: medium
     has_border: false
