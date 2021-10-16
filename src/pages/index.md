@@ -96,7 +96,7 @@ sections:
       - label: Реєстрація
         url: >-
           https://moneyveo.ua/?referral=90ff8d4a-04ed-4540-b03d-a8e273946cac&utm_source=friends&utm_medium=cpa&utm_campaign=friends
-        style: secondary
+        style: primary
         has_icon: false
         icon: arrow-left
         icon_position: right
