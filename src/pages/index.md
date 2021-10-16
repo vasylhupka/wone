@@ -111,6 +111,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     title: 'Кредитпід 0,01%'
+    image: images/moneyveo-w.jpg
   - type: blog_feed_section
     title: Новини
     blog_feed_cols: three
