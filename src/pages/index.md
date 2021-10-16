@@ -110,7 +110,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    title: 'Кредитпід 0,01%'
+    title: 'Кредит під 0,01%'
     image: images/moneyveo-w.jpg
   - type: blog_feed_section
     title: Новини
