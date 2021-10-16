@@ -112,6 +112,7 @@ sections:
     type: hero_section
     title: 'Кредит під 0,01%'
     image: images/moneyveo-w.jpg
+    subtitle: 'Реєструйся в перше і отримай бонус '
   - type: blog_feed_section
     title: Новини
     blog_feed_cols: three
