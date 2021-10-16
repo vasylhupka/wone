@@ -135,17 +135,7 @@ sections:
     background_color: none
   - title: lorem-ipsum
     subtitle: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: "Получить деньги в рамках этого предложения может каждый пользователь, который впервые обратился в Moneyveo.\n\nНовые пользователи сервиса могут рассчитывать на получение средств в размере\_**до 17 000 грн**\_на срок до 30 дней. Максимальная стоимость пользования кредитом за весь период на этих условиях составит всего\_**51 грн**.\_\n"
     actions: []
     image_alt: 'Кредит 0,01%'
     video_embed_html: >-
