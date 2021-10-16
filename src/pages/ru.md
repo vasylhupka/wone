@@ -136,7 +136,15 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     content: "Получить деньги в рамках этого предложения может каждый пользователь, который впервые обратился в Moneyveo.\n\nНовые пользователи сервиса могут рассчитывать на получение средств в размере\_**до 17 000 грн**\_на срок до 30 дней. Максимальная стоимость пользования кредитом за весь период на этих условиях составит всего\_**51 грн**.\_\n"
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     image_alt: 'Кредит 0,01%'
     video_embed_html: >-
       <a
