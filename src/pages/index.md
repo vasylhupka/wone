@@ -93,7 +93,7 @@ sections:
     feature_padding_vert: small
     background_color: none
   - actions:
-      - label: lorem-ipsum
+      - label: Реєстрація
         url: '#'
         style: link
         has_icon: false
