@@ -180,7 +180,7 @@ sections:
       href="https://moneyveo.ua/?referral=90ff8d4a-04ed-4540-b03d-a8e273946cac&utm_source=friends&utm_medium=cpa&utm_campaign=friends"><img
       src="https://preview--wone-75f84.stackbit.dev/images/mv.gif" /></a>
     media_position: top
-    media_width: fourty
+    media_width: sixty
     align: left
     padding_top: medium
     padding_bottom: medium
