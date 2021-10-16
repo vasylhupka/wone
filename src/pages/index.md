@@ -110,6 +110,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
+    title: 'Кредит Smart під 0,01%'
   - type: blog_feed_section
     title: Новини
     blog_feed_cols: three
