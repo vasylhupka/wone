@@ -138,7 +138,8 @@ sections:
     content: "Получить деньги в рамках этого предложения может каждый пользователь, который впервые обратился в Moneyveo.\n\nНовые пользователи сервиса могут рассчитывать на получение средств в размере\_**до 17 000 грн**\_на срок до 30 дней. Максимальная стоимость пользования кредитом за весь период на этих условиях составит всего\_**51 грн**.\_\n"
     actions:
       - label: Регистрация
-        url: '#'
+        url: >-
+          https://moneyveo.ua/?referral=90ff8d4a-04ed-4540-b03d-a8e273946cac&utm_source=friends&utm_medium=cpa&utm_campaign=friends
         style: link
         has_icon: false
         icon: arrow-left
