@@ -92,28 +92,6 @@ sections:
         align: right
     feature_padding_vert: small
     background_color: none
-  - content: |+
-
-
-      ![](images/mv.gif)
-
-
-
-
-
-    actions: []
-    actions_position: bottom
-    actions_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: cta_section
   - actions: []
     image_alt: 'Кредит під 0,01%'
     video_embed_html: >-
