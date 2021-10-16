@@ -163,7 +163,6 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/images.jpg
   - type: blog_feed_section
     title: Новости
     blog_feed_cols: three
