@@ -138,8 +138,7 @@ sections:
         align: right
     feature_padding_vert: small
     background_color: none
-  - title: lorem-ipsum
-    content: |+
+  - content: |+
 
 
       ![](images/mv.gif)
