@@ -133,36 +133,6 @@ sections:
         align: right
     feature_padding_vert: small
     background_color: none
-  - title: 'Кредит под 0,01%'
-    subtitle: Регистрируешься впервые - получи бонус 350+ грн.*
-    content: "Получить деньги в рамках этого предложения может каждый пользователь, который впервые обратился в Moneyveo.\n\nНовые пользователи сервиса могут рассчитывать на получение средств в размере\_**до 17 000 грн**\_на срок до 30 дней. Максимальная стоимость пользования кредитом за весь период на этих условиях составит всего\_**51 грн**.\_\n\n\\**- чтобы получить 350 грн. при заполнении заявки на сайте moneyveo в поле «Как нас нашли?» укажите «От знакомых» и впишите в форму email: webuildsweb@gmail.com Приводите друзей и получите еще по 350 грн. за каждого.*\n"
-    actions:
-      - label: Регистрация
-        url: >-
-          https://moneyveo.ua/?referral=90ff8d4a-04ed-4540-b03d-a8e273946cac&utm_source=friends&utm_medium=cpa&utm_campaign=friends
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-    image_alt: 'Кредит 0,01%'
-    video_embed_html: >-
-      <a
-      href="https://moneyveo.ua/?referral=90ff8d4a-04ed-4540-b03d-a8e273946cac&utm_source=friends&utm_medium=cpa&utm_campaign=friends"><img
-      src="https://wone.pp.ua/images/images.jpg" /></a>
-    media_position: right
-    media_width: fourty
-    align: left
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
   - type: blog_feed_section
     title: Новости
     blog_feed_cols: three
