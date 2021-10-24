@@ -92,36 +92,6 @@ sections:
         align: right
     feature_padding_vert: small
     background_color: none
-  - actions:
-      - label: Реєстрація
-        url: >-
-          https://moneyveo.ua/?referral=90ff8d4a-04ed-4540-b03d-a8e273946cac&utm_source=friends&utm_medium=cpa&utm_campaign=friends
-        style: primary
-        has_icon: false
-        icon: arrow-left
-        icon_position: right
-        new_window: false
-        no_follow: false
-    image_alt: 'Кредит під 0,01%'
-    video_embed_html: >-
-      <a
-      href="https://moneyveo.ua/?referral=90ff8d4a-04ed-4540-b03d-a8e273946cac&utm_source=friends&utm_medium=cpa&utm_campaign=friends"><img
-      src="https://wone.pp.ua/images/moneyveo-w.jpg" /></a>
-    media_position: right
-    media_width: fourty
-    align: center
-    padding_top: medium
-    padding_bottom: medium
-    has_border: true
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    title: "Кредит\_під 0,01%"
-    subtitle: Реєструєшся вперше - отримай бонус 350+ грн.*
-    content: "Отримати кошти в рамках цієї пропозиції може кожен користувач, який уперше звернувся до Moneyveo.\n\nНові користувачі сервісу можуть розраховувати на отримання коштів у розмірі \_**до 17 000 грн**\_ на строк до 30 днів. Максимальна вартість користування кредитом за весь період на цих умовах становитиме лише\_**51 грн.**\n\n\\**- щоб отримати 350 грн. під час заповнення заявки на сайті moneyveo у полі «Як нас знайшли?» вкажіть «Від знайомих» і впишіть до форми emai: webuildsweb@gmail.com. Приводьте друзів і отримайте ще по 350 грн. за кожного.*\n"
   - type: blog_feed_section
     title: Новини
     blog_feed_cols: three
