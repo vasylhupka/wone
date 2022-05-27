@@ -36,7 +36,7 @@ sections:
 
 
           Зареєструйтеся та увійдіть до програми, і нехай вона працює у фоновому
-          режимі.
+          режимі!
         content_align: left
         image: images/icon-1.svg
         image_alt: Що до чого в honeygain
