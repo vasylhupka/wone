@@ -35,11 +35,11 @@ seo:
       value: >-
         Загрузите приложения, зарегистрируйтесь и начните зарабатывать деньги прямо сегодня.
     - name: 'twitter:image'
-      value: images/post-4.jpg
+      value: images/earnAPP.jpg
       relativeUrl: true
 template: post
 thumb_image: images/earnAPP.jpg
-image: images/sovety.jpg
+image: images/earnAPP.jpg
 author: src/data/team/ru.yaml
 excerpt: >-
   это приложение для пассивного дохода, которая позволяет вам поделиться небольшой частью вашего интернет-соединения, чтобы заработать деньги. Earnapp принадлежит компании Bright Data. Earnapp поддерживает все страны.
