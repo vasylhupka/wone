@@ -40,7 +40,7 @@ seo:
 template: post
 thumb_image: images/earnAPP.jpg
 image: images/earnAPP.jpg
-author: src/data/team/ru.yaml
+author: src/data/team/ua.yaml
 excerpt: >-
   Це програма для пасивного доходу, яка дозволяє вам поділитися невеликою частиною вашого інтернет-з'єднання, щоб заробити гроші. Earn-app належить компанії Bright Data і підтримує всі країни.
 
