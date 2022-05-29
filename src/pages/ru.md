@@ -167,6 +167,7 @@ sections:
     background_image_position: center top
     background_image_size: cover
     background_image_opacity: 10
+	content: "Вы можете одновременно использовать несколько приложений для увеличения заработка"
 seo:
   title: 'Honeygain - способ заработать в интернете, заработок онлайн'
   description: >-
