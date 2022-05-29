@@ -2,11 +2,8 @@ const siteMetadata = require('./site-metadata.json')
 
 module.exports = {
     pathPrefix: '/',
-    siteMetadata: {
-    siteUrl: `https://wone.pp.ua`,
-},
+    siteMetadata: siteMetadata,
     plugins: [
-	`gatsby-plugin-advanced-sitemap`,
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
