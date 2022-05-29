@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     subtitle: >-
       If you work on the Internet, I invite you to get acquainted with a new foreign country
-      service - Honeygain. This is a company that will not pay you for the exchange
+      service - Honeygain. This is a company that will pay you for the exchange
       the internet traffic you use. The application works on all devices
       Windows, Mac IOS та Android.
     actions:
