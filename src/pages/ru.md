@@ -134,7 +134,8 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: blog_feed_section
-    title: Новости
+    title: Дополнительные способы заработка
+	content: "Вы можете одновременно использовать несколько приложений для увеличения заработка"
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
