@@ -77,6 +77,6 @@ Our philosophy puts people first, which is why we make it our top priority to pr
 
 > These guidelines ensure that you maximize your profits.
 
-## Как вам будут платить? ##
+## How will you be paid? ##
 Earnings depend on the amount of traffic passing through your device by Bright Data clients. This amount will fluctuate based on supply and demand. Earnings can be redeemed as soon as it exceeds $2.5 - at this point the "Pay" button will become active, and all you have to do is click on it and get paid.
 > Passive income on the distribution of the Internet -  **[registration](https://bit.ly/3LZphoR "start earning")!**
