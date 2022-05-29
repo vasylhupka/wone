@@ -6,7 +6,7 @@ module.exports = {
     siteUrl: `https://wone.pp.ua`,
 },
     plugins: [
-	`gatsby-plugin-advanced-sitemap`
+	`gatsby-plugin-advanced-sitemap`,
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
         `gatsby-transformer-remark`,
