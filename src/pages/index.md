@@ -94,7 +94,6 @@ sections:
     background_color: none
   - type: blog_feed_section
     title: Додаткові способи заробітку
-    subtitle: "Ви можете одночасно використовувати декілька додатків для збільшення заробітку"
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
