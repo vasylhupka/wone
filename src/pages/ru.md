@@ -150,8 +150,7 @@ sections:
     has_border: false
     background_color: none
     author: src/data/team/ru.yaml
-    actions: 
-  - label: Вы можете одновременно использовать несколько приложений для увеличения заработка
+    actions: []
   - type: cta_section
     title: Вы готовы начать?
     subtitle: "[Зарегистрируйтесь за этим реферальной ссылке](https://translate.google.com/website?sl=auto\\&tl=ru\\&u=http://bit.ly/3bvbbwy)\_чтобы получить 5 $ на ваш счет.\n"
