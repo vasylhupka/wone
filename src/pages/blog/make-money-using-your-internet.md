@@ -40,7 +40,7 @@ seo:
 template: post
 thumb_image: images/how_does.jpg
 image: images/how_does.jpg
-author: src/data/team/ua.yaml
+author: src/data/team/en.yaml
 excerpt: >-
  IPRoyal allows you to make money instantly. All you need to do to start earning money is create a free account and install our app.
 ---
