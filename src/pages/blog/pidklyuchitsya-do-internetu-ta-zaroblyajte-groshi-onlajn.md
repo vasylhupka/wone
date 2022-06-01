@@ -19,6 +19,7 @@ seo:
     - name: 'og:title'
       value: Встановіть програму і почніть заробляти онлайн
       keyName: property
+    - name: 'og:description'
       value: >-
         Завантажте програми, зареєструйтесь і почніть заробляти гроші сьогодні.
       keyName: property
