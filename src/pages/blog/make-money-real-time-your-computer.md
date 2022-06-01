@@ -40,7 +40,7 @@ seo:
 template: post
 thumb_image: images/bit-ping.jpg
 image: images/bit-ping.jpg
-author: src/data/team/ua.yaml
+author: src/data/team/en.yaml
 excerpt: >-
   Make money in real time by launching a network analytics node, providing the company with real user data.
 
