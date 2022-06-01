@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Встановіть програму і почніть заробляти онлайн
+      value: Заробляй онлайн зі свого телефону, планшета, ноутбука чи ПК
       keyName: property
     - name: 'og:description'
       value: >-
@@ -30,20 +30,20 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Встановіть програму і почніть заробляти онлайн
+      value: Заробляй онлайн зі свого телефону, планшета, ноутбука чи ПК
     - name: 'twitter:description'
       value: >-
         Завантажте програми, зареєструйтесь і почніть заробляти гроші сьогодні.
     - name: 'twitter:image'
-      value: images/tm.jpg
+      value: images/earnAPP.jpg
       relativeUrl: true
 template: post
-thumb_image: images/tm.jpg
-image: images/tm.jpg
+thumb_image: images/earnAPP.jpg
+image: images/earnAPP.jpg
 author: src/data/team/ua.yaml
 excerpt: >-
   Встановіть програму на свій пристрій, щоб перетворити трафік на гроші
-
+  
 ---
 ## [Реєстрація](https://bit.ly/3MXxP16 "Реєстрація")
 (Перейдіть щоб отримати 5 $ на ваш рахунок для старту)
