@@ -7,7 +7,7 @@ categories:
 tags: []
 thumb_image_alt: Заробляй онлайн зі свого телефону та ПК
 image_alt: Заробляй онлайн зі свого телефону та ПК
-image_position: right
+image_position: left
 seo:
   title: Заробляй онлайн зі свого телефону, планшета, ноутбука чи ПК
   description: >-
