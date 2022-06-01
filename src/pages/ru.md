@@ -138,7 +138,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
-    recent_count: 6
+    recent_count: 3
     show_image: true
     show_date: true
     show_categories: true
@@ -150,7 +150,6 @@ sections:
     has_border: false
     background_color: none
     author: src/data/team/ru.yaml
-    actions: []
   - type: cta_section
     title: "Вы готовы начать?"
     content: "[Зарегистрируйтесь по реферальной ссылке](https://translate.google.com/website?sl=auto\\&tl=ru\\&u=http://bit.ly/3bvbbwy)\_чтобы получить 5 $ на ваш счет.\n"
