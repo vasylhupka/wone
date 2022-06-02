@@ -1,6 +1,6 @@
 ---
 title: Share internet connection and earn money online.
-subtitle: "Just install the application and start earning on every megabyte of your Internet"
+subtitle: "Just install the application and start earning on every megabyte of your internet"
 date: '2022-06-01'
 categories:
   - src/data/categories/tips.yaml
