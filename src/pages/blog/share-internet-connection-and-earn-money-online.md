@@ -1,27 +1,27 @@
 ---
-title: Поделитесь подключением к интернету и зарабатывайте деньги онлайн.
-subtitle: "Просто установите приложение и начните зарабатывать на каждом мегабайте вашего интернета"
+title: Share internet connection and earn money online.
+subtitle: "Just install the application and start earning on every megabyte of your Internet"
 date: '2022-06-01'
 categories:
   - src/data/categories/tips.yaml
 tags: []
-thumb_image_alt: Зарабатывай онлайн со своего ПК
-image_alt: Зарабатывай онлайн со своего ПК
+thumb_image_alt: Earn online from your PC
+image_alt: Earn online from your PC
 image_position: right
 seo:
-  title: Установите приложение и начните зарабатывать онлайн
+  title: Install the application and start earning online
   description: >-
-    Загрузите приложения, зарегистрируйтесь и начните зарабатывать деньги сегодня.
+    Download the apps, sign up and start making money today.
   extra:
     - name: 'og:type'
       value: article
       keyName: property
     - name: 'og:title'
-      value: Установите приложение и начните зарабатывать онлайн
+      value: Install the application and start earning online
       keyName: property
     - name: 'og:description'
       value: >-
-        Загрузите приложения, зарегистрируйтесь и начните зарабатывать деньги сегодня.
+        Download the apps, sign up and start making money today.
       keyName: property
     - name: 'og:image'
       value: images/earnAPP.jpg
@@ -30,10 +30,10 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Установите приложение и начните зарабатывать онлайн
+      value: Install the application and start earning online
     - name: 'twitter:description'
       value: >-
-       Загрузите приложения, зарегистрируйтесь и начните зарабатывать деньги сегодня.
+       Download the apps, sign up and start making money today.
     - name: 'twitter:image'
       value: images/tm.jpg
       relativeUrl: true
@@ -42,7 +42,7 @@ thumb_image: images/tm.jpg
 image: images/tm.jpg
 author: src/data/team/ru.yaml
 excerpt: >-
-  Установите приложение на устройство, чтобы превратить трафик в деньги
+  Install the app on your device to turn traffic into money
   
 ---
 ## [Registration](https://bit.ly/3MXxP16 "Registration")
