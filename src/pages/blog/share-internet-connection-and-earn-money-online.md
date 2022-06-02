@@ -33,7 +33,7 @@ seo:
       value: Install the application and start earning online
     - name: 'twitter:description'
       value: >-
-			Download the apps, sign up and start making money today.
+		Download the apps, sign up and start making money today.
     - name: 'twitter:image'
       value: images/tm.jpg
       relativeUrl: true
