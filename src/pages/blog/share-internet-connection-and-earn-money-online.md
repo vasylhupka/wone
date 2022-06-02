@@ -40,7 +40,7 @@ seo:
 template: post
 thumb_image: images/tm.jpg
 image: images/tm.jpg
-author: src/data/team/ru.yaml
+author: src/data/team/en.yaml
 excerpt: >-
   Install the app on your device to turn traffic into money
   
